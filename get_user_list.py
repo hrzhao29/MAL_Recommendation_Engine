@@ -3,7 +3,7 @@ import time
 import json
 
 # Get your Client ID from: https://myanimelist.net/apiconfig
-CLIENT_ID = ""  # REPLACE THIS
+CLIENT_ID = ""  # REPLACE THIS WHEN COMMITTING!!!!
 
 def get_user_animelist(username, status='completed'):
     """

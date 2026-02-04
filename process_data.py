@@ -1,5 +1,7 @@
 import json
 import os
+import requests
+import time
 
 def load_anime_data(filename):
     """
@@ -63,6 +65,29 @@ def print_user_animelist(user_anime_list):
         
         print(f"{title:45} | User: {user_score}/10 | MAL: {mal_score} | Status: {status:12} | Progress: {episodes_watched}/{total_episodes}")
 
+def print_cf_recommendations(recommendations_list, num_to_show=50):
+    """
+    Print collaborative filtering recommendations with anime names.
+    
+    Args:
+        recommendations_list: List of CF recommendation dictionaries
+        num_to_show: Number of recommendations to display
+    """
+    print(f"\n{'='*80}")
+    print(f"TOP {min(num_to_show, len(recommendations_list))} COLLABORATIVE FILTERING RECOMMENDATIONS")
+    print(f"{'='*80}\n")
+    print(f"{'Rank':<6} {'Title':<50} {'Predicted Score':<18} {'Confidence':<12}")
+    print("-" * 80)
+    
+    for i, item in enumerate(recommendations_list[:num_to_show], 1):
+        title = item.get('title', 'Unknown')
+        predicted_score = item.get('predicted_score', 0)
+        confidence = item.get('confidence', 0)
+        
+        print(f"{i:<6} {title[:48]:<50} {predicted_score:>13.2f}     {confidence:>10.3f}")
+    
+    print()
+
 def print_recommendations(recommendations_list, num_to_show=50):
     """
     Print recommendations (just titles).
@@ -101,8 +126,9 @@ if __name__ == "__main__":
     print("1. Process top anime list")
     print("2. Process user's anime list")
     print("3. Process recommendations")
+    print("4. Process doppleganger recommendations")
     
-    choice = input("\nEnter choice (1, 2, or 3): ").strip()
+    choice = input("\nEnter choice (1, 2, 3, or 4): ").strip()
     
     if choice == '1':
         # Process top anime list
@@ -159,6 +185,22 @@ if __name__ == "__main__":
         
         if recommendations_data:
             print_recommendations(recommendations_data, num_to_show)
+    
+    elif choice == '4':
+        # Process doppleganger recommendations
+        username = input("Enter username (or leave blank for 'idiotcomputer'): ").strip()
+        if not username:
+            username = 'idiotcomputer'
+        
+        filename = f'{username}_dg_recommendations.json'
+        
+        num_to_show = input("How many recommendations to show? (default: 20): ").strip()
+        num_to_show = int(num_to_show) if num_to_show.isdigit() else 20
+        
+        cf_recommendations = load_anime_data(filename)
+        
+        if cf_recommendations:
+            print_cf_recommendations(cf_recommendations, num_to_show)
     
     else:
         print("Invalid choice!")
