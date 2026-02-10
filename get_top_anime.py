@@ -65,7 +65,7 @@ def save_anime_data(anime_list, filename='top_anime_data.json'):
 if __name__ == "__main__":
     # Configure the rank range here
     START_RANK = 1
-    END_RANK = 1000
+    END_RANK = 5000
     
     # Fetch the anime data
     anime_data = get_top_anime_by_rating(START_RANK, END_RANK)

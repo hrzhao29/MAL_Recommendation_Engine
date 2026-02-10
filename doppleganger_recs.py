@@ -13,6 +13,26 @@ def load_json_data(filename):
     
     return data
 
+def load_top_1000_anime_ids(filename='top_anime_1_to_1000.json'):
+    """
+    Load the set of anime IDs from the top 1000 anime file.
+    
+    Returns:
+        set: Set of anime IDs in the top 1000
+    """
+    data = load_json_data(filename)
+    if not data:
+        print(f"Warning: Could not load {filename}. All anime will be included.")
+        return set()
+    
+    top_ids = set()
+    for anime in data:
+        anime_id = anime.get('mal_id')
+        if anime_id:
+            top_ids.add(anime_id)
+    
+    return top_ids
+
 def extract_user_ratings(animelist):
     """
     Extract anime ratings and titles from user's list.
@@ -57,15 +77,23 @@ def build_anime_titles_dict(target_titles, similar_users):
     
     return all_titles
 
-def generate_predictions(target_ratings, similar_users, anime_titles, top_k=30, min_raters=3):
+def generate_predictions(target_ratings, similar_users, anime_titles, top_1000_ids=None, top_k=30, min_raters=3):
     """
     Generate predicted ratings for unwatched anime based on similar users.
+    
+    Args:
+        top_1000_ids: Set of anime IDs in top 1000 to exclude (optional)
     
     Returns:
         list: Predictions with anime_id, title, predicted_score, confidence, num_raters
     """
+    if top_1000_ids is None:
+        top_1000_ids = set()
+    
     print("\nGenerating predictions...")
     print("-" * 60)
+    if top_1000_ids:
+        print(f"Filtering out {len(top_1000_ids)} anime from top 1000")
     
     # Calculate target user's mean rating
     target_mean = sum(target_ratings.values()) / len(target_ratings)
@@ -86,7 +114,7 @@ def generate_predictions(target_ratings, similar_users, anime_titles, top_k=30, 
         user_mean = sum(user_ratings.values()) / len(user_ratings)
         
         for anime_id, score in user_ratings.items():
-            if anime_id not in target_ratings:
+            if anime_id not in target_ratings and anime_id not in top_1000_ids:
                 # Store (correlation, centered_rating)
                 centered_rating = score - user_mean
                 candidate_anime[anime_id].append((correlation, centered_rating))
@@ -188,11 +216,17 @@ if __name__ == "__main__":
     anime_titles = build_anime_titles_dict(target_titles, similar_users)
     print(f"Collected titles for {len(anime_titles)} unique anime")
     
+    # Load top 1000 anime to filter out
+    print("\nLoading top 1000 anime to exclude...")
+    top_1000_ids = load_top_1000_anime_ids()
+    print(f"Loaded {len(top_1000_ids)} anime IDs from top 1000")
+    
     # Generate predictions
     predictions = generate_predictions(
         target_ratings,
         similar_users,
         anime_titles,
+        top_1000_ids=top_1000_ids,
         top_k=TOP_K_USERS,
         min_raters=MIN_RATERS
     )

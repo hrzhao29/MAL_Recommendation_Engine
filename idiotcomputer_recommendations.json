@@ -1215,8 +1215,8 @@
         "title": "86"
       },
       {
-        "mal_id": 8888,
-        "title": "Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita"
+        "mal_id": 40028,
+        "title": "Shingeki no Kyojin: The Final Season"
       }
     ],
     "votes": 8
@@ -1228,8 +1228,8 @@
         "title": "86"
       },
       {
-        "mal_id": 40028,
-        "title": "Shingeki no Kyojin: The Final Season"
+        "mal_id": 8888,
+        "title": "Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita"
       }
     ],
     "votes": 8
@@ -1280,19 +1280,6 @@
         "title": "86"
       },
       {
-        "mal_id": 22199,
-        "title": "Akame ga Kill!"
-      }
-    ],
-    "votes": 4
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 41457,
-        "title": "86"
-      },
-      {
         "mal_id": 46095,
         "title": "Vivy: Fluorite Eye's Song"
       }
@@ -1319,11 +1306,11 @@
         "title": "86"
       },
       {
-        "mal_id": 31764,
-        "title": "Nejimaki Seirei Senki: Tenkyou no Alderamin"
+        "mal_id": 22199,
+        "title": "Akame ga Kill!"
       }
     ],
-    "votes": 3
+    "votes": 4
   },
   {
     "entry": [
@@ -1332,8 +1319,8 @@
         "title": "86"
       },
       {
-        "mal_id": 3089,
-        "title": "The Sky Crawlers"
+        "mal_id": 31764,
+        "title": "Nejimaki Seirei Senki: Tenkyou no Alderamin"
       }
     ],
     "votes": 3
@@ -1358,8 +1345,21 @@
         "title": "86"
       },
       {
-        "mal_id": 2581,
-        "title": "Kidou Senshi Gundam 00"
+        "mal_id": 3089,
+        "title": "The Sky Crawlers"
+      }
+    ],
+    "votes": 3
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 41457,
+        "title": "86"
+      },
+      {
+        "mal_id": 51105,
+        "title": "NieR:Automata Ver1.1a"
       }
     ],
     "votes": 2
@@ -1384,6 +1384,19 @@
         "title": "86"
       },
       {
+        "mal_id": 71,
+        "title": "Full Metal Panic!"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 41457,
+        "title": "86"
+      },
+      {
         "mal_id": 6547,
         "title": "Angel Beats!"
       }
@@ -1397,8 +1410,21 @@
         "title": "86"
       },
       {
-        "mal_id": 51105,
-        "title": "NieR:Automata Ver1.1a"
+        "mal_id": 37521,
+        "title": "Vinland Saga"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 41457,
+        "title": "86"
+      },
+      {
+        "mal_id": 2581,
+        "title": "Kidou Senshi Gundam 00"
       }
     ],
     "votes": 2
@@ -1423,11 +1449,11 @@
         "title": "86"
       },
       {
-        "mal_id": 71,
-        "title": "Full Metal Panic!"
+        "mal_id": 51417,
+        "title": "Engage Kiss"
       }
     ],
-    "votes": 2
+    "votes": 1
   },
   {
     "entry": [
@@ -1514,19 +1540,6 @@
         "title": "86"
       },
       {
-        "mal_id": 28625,
-        "title": "Shisha no Teikoku"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 41457,
-        "title": "86"
-      },
-      {
         "mal_id": 30806,
         "title": "Schwarzesmarken"
       }
@@ -1540,8 +1553,8 @@
         "title": "86"
       },
       {
-        "mal_id": 51417,
-        "title": "Engage Kiss"
+        "mal_id": 28625,
+        "title": "Shisha no Teikoku"
       }
     ],
     "votes": 1
@@ -1605,8 +1618,8 @@
         "title": "86"
       },
       {
-        "mal_id": 37521,
-        "title": "Vinland Saga"
+        "mal_id": 20787,
+        "title": "Black Bullet"
       }
     ],
     "votes": 1
@@ -1620,19 +1633,6 @@
       {
         "mal_id": 35848,
         "title": "Promare"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 41457,
-        "title": "86"
-      },
-      {
-        "mal_id": 20787,
-        "title": "Black Bullet"
       }
     ],
     "votes": 1
@@ -2398,19 +2398,6 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 9756,
-        "title": "Mahou Shoujo Madoka★Magica"
-      }
-    ],
-    "votes": 9
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
         "mal_id": 18195,
         "title": "Little Busters! Refrain"
       }
@@ -2429,6 +2416,32 @@
       }
     ],
     "votes": 9
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 9756,
+        "title": "Mahou Shoujo Madoka★Magica"
+      }
+    ],
+    "votes": 9
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 12445,
+        "title": "Tasogare Otome x Amnesia"
+      }
+    ],
+    "votes": 8
   },
   {
     "entry": [
@@ -2463,11 +2476,11 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 12445,
-        "title": "Tasogare Otome x Amnesia"
+        "mal_id": 4224,
+        "title": "Toradora!"
       }
     ],
-    "votes": 8
+    "votes": 7
   },
   {
     "entry": [
@@ -2489,11 +2502,11 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 4224,
-        "title": "Toradora!"
+        "mal_id": 1530,
+        "title": "Kanon (2006)"
       }
     ],
-    "votes": 7
+    "votes": 6
   },
   {
     "entry": [
@@ -2502,8 +2515,8 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 1530,
-        "title": "Kanon (2006)"
+        "mal_id": 8841,
+        "title": "Kore wa Zombie desu ka?"
       }
     ],
     "votes": 6
@@ -2541,50 +2554,11 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 8841,
-        "title": "Kore wa Zombie desu ka?"
-      }
-    ],
-    "votes": 6
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
         "mal_id": 3420,
         "title": "Shigofumi"
       }
     ],
     "votes": 6
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 1965,
-        "title": "Sola"
-      }
-    ],
-    "votes": 5
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 226,
-        "title": "Elfen Lied"
-      }
-    ],
-    "votes": 5
   },
   {
     "entry": [
@@ -2619,8 +2593,8 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 37976,
-        "title": "Zombieland Saga"
+        "mal_id": 1965,
+        "title": "Sola"
       }
     ],
     "votes": 5
@@ -2632,8 +2606,8 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 24765,
-        "title": "Gakkougurashi!"
+        "mal_id": 226,
+        "title": "Elfen Lied"
       }
     ],
     "votes": 5
@@ -2658,11 +2632,11 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 8142,
-        "title": "Colorful (Movie)"
+        "mal_id": 24765,
+        "title": "Gakkougurashi!"
       }
     ],
-    "votes": 4
+    "votes": 5
   },
   {
     "entry": [
@@ -2671,8 +2645,21 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 355,
-        "title": "Shakugan no Shana"
+        "mal_id": 37976,
+        "title": "Zombieland Saga"
+      }
+    ],
+    "votes": 5
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 6347,
+        "title": "Baka to Test to Shoukanjuu"
       }
     ],
     "votes": 4
@@ -2710,8 +2697,8 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 4382,
-        "title": "Suzumiya Haruhi no Yuuutsu (2009)"
+        "mal_id": 355,
+        "title": "Shakugan no Shana"
       }
     ],
     "votes": 4
@@ -2723,8 +2710,8 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 6347,
-        "title": "Baka to Test to Shoukanjuu"
+        "mal_id": 4382,
+        "title": "Suzumiya Haruhi no Yuuutsu (2009)"
       }
     ],
     "votes": 4
@@ -2762,8 +2749,8 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 10396,
-        "title": "Ben-To"
+        "mal_id": 8142,
+        "title": "Colorful (Movie)"
       }
     ],
     "votes": 4
@@ -2788,50 +2775,11 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 31798,
-        "title": "Kiznaiver"
+        "mal_id": 10396,
+        "title": "Ben-To"
       }
     ],
-    "votes": 3
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 33502,
-        "title": "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?"
-      }
-    ],
-    "votes": 3
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 22199,
-        "title": "Akame ga Kill!"
-      }
-    ],
-    "votes": 3
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 36828,
-        "title": "Caligula"
-      }
-    ],
-    "votes": 3
+    "votes": 4
   },
   {
     "entry": [
@@ -2853,8 +2801,8 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 10620,
-        "title": "Mirai Nikki (TV)"
+        "mal_id": 12175,
+        "title": "Koi to Senkyo to Chocolate"
       }
     ],
     "votes": 3
@@ -2866,21 +2814,8 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 122,
-        "title": "Full Moon wo Sagashite"
-      }
-    ],
-    "votes": 3
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 37450,
-        "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
+        "mal_id": 12189,
+        "title": "Hyouka"
       }
     ],
     "votes": 3
@@ -2918,8 +2853,8 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 12189,
-        "title": "Hyouka"
+        "mal_id": 587,
+        "title": "Hanbun no Tsuki ga Noboru Sora"
       }
     ],
     "votes": 3
@@ -2931,8 +2866,34 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 12175,
-        "title": "Koi to Senkyo to Chocolate"
+        "mal_id": 7769,
+        "title": "Ookami-san to Shichinin no Nakama-tachi"
+      }
+    ],
+    "votes": 3
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 36828,
+        "title": "Caligula"
+      }
+    ],
+    "votes": 3
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 22199,
+        "title": "Akame ga Kill!"
       }
     ],
     "votes": 3
@@ -2957,8 +2918,47 @@
         "title": "Angel Beats!"
       },
       {
+        "mal_id": 10620,
+        "title": "Mirai Nikki (TV)"
+      }
+    ],
+    "votes": 3
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
         "mal_id": 10793,
         "title": "Guilty Crown"
+      }
+    ],
+    "votes": 3
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 37450,
+        "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
+      }
+    ],
+    "votes": 3
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 31798,
+        "title": "Kiznaiver"
       }
     ],
     "votes": 3
@@ -2983,8 +2983,8 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 587,
-        "title": "Hanbun no Tsuki ga Noboru Sora"
+        "mal_id": 20517,
+        "title": "Little Busters! EX"
       }
     ],
     "votes": 3
@@ -2996,8 +2996,21 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 7769,
-        "title": "Ookami-san to Shichinin no Nakama-tachi"
+        "mal_id": 33502,
+        "title": "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?"
+      }
+    ],
+    "votes": 3
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 122,
+        "title": "Full Moon wo Sagashite"
       }
     ],
     "votes": 3
@@ -3035,424 +3048,8 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 20517,
-        "title": "Little Busters! EX"
-      }
-    ],
-    "votes": 3
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 789,
-        "title": "Shinigami no Ballad."
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 10163,
-        "title": "C: The Money of Soul and Possibility Control"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 49303,
-        "title": "Alice to Therese no Maboroshi Koujou"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 20031,
-        "title": "D-Frag!"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 32615,
-        "title": "Youjo Senki"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 48,
-        "title": ".hack//Sign"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 25519,
-        "title": "Yuuki Yuuna wa Yuusha de Aru"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 5081,
-        "title": "Bakemonogatari"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 357,
-        "title": "Bokusatsu Tenshi Dokuro-chan"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 2236,
-        "title": "Toki wo Kakeru Shoujo"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
         "mal_id": 1210,
         "title": "NHK ni Youkoso!"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 3572,
-        "title": "Macross F"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 934,
-        "title": "Higurashi no Naku Koro ni"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 21681,
-        "title": "Hanayamata"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 50709,
-        "title": "Lycoris Recoil"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 42307,
-        "title": "Subarashiki Kono Sekai The Animation"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 39533,
-        "title": "Given"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 10721,
-        "title": "Mawaru Penguindrum"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 121,
-        "title": "Fullmetal Alchemist"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 21603,
-        "title": "Mekakucity Actors"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 14293,
-        "title": "Nerawareta Gakuen"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 7311,
-        "title": "Suzumiya Haruhi no Shoushitsu"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 32438,
-        "title": "Mayoiga"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 9253,
-        "title": "Steins;Gate"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 10588,
-        "title": "Persona 4 the Animation"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 2251,
-        "title": "Baccano!"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 41457,
-        "title": "86"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 61,
-        "title": "D.N.Angel"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 25397,
-        "title": "Absolute Duo"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 3588,
-        "title": "Soul Eater"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 12149,
-        "title": "AKB0048"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 384,
-        "title": "Gantz"
       }
     ],
     "votes": 2
@@ -3477,11 +3074,11 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 34240,
-        "title": "Shelter (Music)"
+        "mal_id": 121,
+        "title": "Fullmetal Alchemist"
       }
     ],
-    "votes": 1
+    "votes": 2
   },
   {
     "entry": [
@@ -3490,11 +3087,11 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 18893,
-        "title": "Aoki Hagane no Arpeggio: Ars Nova"
+        "mal_id": 39533,
+        "title": "Given"
       }
     ],
-    "votes": 1
+    "votes": 2
   },
   {
     "entry": [
@@ -3503,11 +3100,11 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 10719,
-        "title": "Boku wa Tomodachi ga Sukunai"
+        "mal_id": 32615,
+        "title": "Youjo Senki"
       }
     ],
-    "votes": 1
+    "votes": 2
   },
   {
     "entry": [
@@ -3516,11 +3113,11 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 35839,
-        "title": "Sora yori mo Tooi Basho"
+        "mal_id": 2236,
+        "title": "Toki wo Kakeru Shoujo"
       }
     ],
-    "votes": 1
+    "votes": 2
   },
   {
     "entry": [
@@ -3529,11 +3126,11 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 31442,
-        "title": "Musaigen no Phantom World"
+        "mal_id": 21681,
+        "title": "Hanayamata"
       }
     ],
-    "votes": 1
+    "votes": 2
   },
   {
     "entry": [
@@ -3542,11 +3139,11 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 16011,
-        "title": "Tokyo Ravens"
+        "mal_id": 20031,
+        "title": "D-Frag!"
       }
     ],
-    "votes": 1
+    "votes": 2
   },
   {
     "entry": [
@@ -3555,11 +3152,11 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
+        "mal_id": 10163,
+        "title": "C: The Money of Soul and Possibility Control"
       }
     ],
-    "votes": 1
+    "votes": 2
   },
   {
     "entry": [
@@ -3568,11 +3165,11 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 31149,
-        "title": "Persona 3 the Movie 4: Winter of Rebirth"
+        "mal_id": 25519,
+        "title": "Yuuki Yuuna wa Yuusha de Aru"
       }
     ],
-    "votes": 1
+    "votes": 2
   },
   {
     "entry": [
@@ -3581,11 +3178,11 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 6702,
-        "title": "Fairy Tail"
+        "mal_id": 32438,
+        "title": "Mayoiga"
       }
     ],
-    "votes": 1
+    "votes": 2
   },
   {
     "entry": [
@@ -3594,11 +3191,11 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 20787,
-        "title": "Black Bullet"
+        "mal_id": 934,
+        "title": "Higurashi no Naku Koro ni"
       }
     ],
-    "votes": 1
+    "votes": 2
   },
   {
     "entry": [
@@ -3607,11 +3204,271 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 13599,
-        "title": "Robotics;Notes"
+        "mal_id": 357,
+        "title": "Bokusatsu Tenshi Dokuro-chan"
       }
     ],
-    "votes": 1
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 10721,
+        "title": "Mawaru Penguindrum"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 25397,
+        "title": "Absolute Duo"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 5081,
+        "title": "Bakemonogatari"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 61,
+        "title": "D.N.Angel"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 21603,
+        "title": "Mekakucity Actors"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 49303,
+        "title": "Alice to Therese no Maboroshi Koujou"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 2251,
+        "title": "Baccano!"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 384,
+        "title": "Gantz"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 50709,
+        "title": "Lycoris Recoil"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 3588,
+        "title": "Soul Eater"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 7311,
+        "title": "Suzumiya Haruhi no Shoushitsu"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 42307,
+        "title": "Subarashiki Kono Sekai The Animation"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 789,
+        "title": "Shinigami no Ballad."
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 48,
+        "title": ".hack//Sign"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 12149,
+        "title": "AKB0048"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 14293,
+        "title": "Nerawareta Gakuen"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 3572,
+        "title": "Macross F"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 9253,
+        "title": "Steins;Gate"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 41457,
+        "title": "86"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 10588,
+        "title": "Persona 4 the Animation"
+      }
+    ],
+    "votes": 2
   },
   {
     "entry": [
@@ -3633,229 +3490,8 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 57,
-        "title": "Beck"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 5118,
-        "title": "Suzumiya Haruhi-chan no Yuuutsu"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 256,
-        "title": "Hoshi no Koe"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 13833,
-        "title": "Nagareboshi Lens"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 34599,
-        "title": "Made in Abyss"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 38000,
-        "title": "Kimetsu no Yaiba"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 35849,
-        "title": "Darling in the FranXX"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 31553,
-        "title": "Charlotte: Tsuyoimono-tachi"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 39195,
-        "title": "Beastars"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 39518,
-        "title": "Vampire in the Garden"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 50380,
-        "title": "Paripi Koumei"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 37972,
-        "title": "Hoshiai no Sora"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 35994,
-        "title": "Satsuriku no Tenshi"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 41380,
-        "title": "100-man no Inochi no Ue ni Ore wa Tatteiru"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 889,
-        "title": "Black Lagoon"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 33091,
-        "title": "Planetarian: Chiisana Hoshi no Yume"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 1604,
-        "title": "Katekyou Hitman Reborn!"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 43299,
-        "title": "Wonder Egg Priority"
+        "mal_id": 13599,
+        "title": "Robotics;Notes"
       }
     ],
     "votes": 1
@@ -3893,60 +3529,8 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 36098,
-        "title": "Kimi no Suizou wo Tabetai"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 30654,
-        "title": "Ansatsu Kyoushitsu 2nd Season"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 16934,
-        "title": "Chuunibyou demo Koi ga Shitai! Kirameki no... Slapstick Noel"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 41025,
-        "title": "Fumetsu no Anata e"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 1482,
-        "title": "D.Gray-man"
+        "mal_id": 41380,
+        "title": "100-man no Inochi no Ue ni Ore wa Tatteiru"
       }
     ],
     "votes": 1
@@ -3971,8 +3555,151 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 38329,
-        "title": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai"
+        "mal_id": 57,
+        "title": "Beck"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 31553,
+        "title": "Charlotte: Tsuyoimono-tachi"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 35994,
+        "title": "Satsuriku no Tenshi"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 43299,
+        "title": "Wonder Egg Priority"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 31149,
+        "title": "Persona 3 the Movie 4: Winter of Rebirth"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 31442,
+        "title": "Musaigen no Phantom World"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 889,
+        "title": "Black Lagoon"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 50739,
+        "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 33091,
+        "title": "Planetarian: Chiisana Hoshi no Yume"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 38000,
+        "title": "Kimetsu no Yaiba"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 21431,
+        "title": "Gokukoku no Brynhildr"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 1482,
+        "title": "D.Gray-man"
       }
     ],
     "votes": 1
@@ -3997,6 +3724,45 @@
         "title": "Angel Beats!"
       },
       {
+        "mal_id": 1604,
+        "title": "Katekyou Hitman Reborn!"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 16934,
+        "title": "Chuunibyou demo Koi ga Shitai! Kirameki no... Slapstick Noel"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 18893,
+        "title": "Aoki Hagane no Arpeggio: Ars Nova"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
         "mal_id": 37105,
         "title": "Grand Blue"
       }
@@ -4010,8 +3776,8 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 13125,
-        "title": "Shinsekai yori"
+        "mal_id": 35849,
+        "title": "Darling in the FranXX"
       }
     ],
     "votes": 1
@@ -4023,8 +3789,60 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 40716,
-        "title": "Kakushigoto"
+        "mal_id": 38329,
+        "title": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 10719,
+        "title": "Boku wa Tomodachi ga Sukunai"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 35839,
+        "title": "Sora yori mo Tooi Basho"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 34599,
+        "title": "Made in Abyss"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 29093,
+        "title": "Grisaia no Meikyuu: Caprice no Mayu 0"
       }
     ],
     "votes": 1
@@ -4062,6 +3880,58 @@
         "title": "Angel Beats!"
       },
       {
+        "mal_id": 40716,
+        "title": "Kakushigoto"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 20787,
+        "title": "Black Bullet"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 34240,
+        "title": "Shelter (Music)"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 30654,
+        "title": "Ansatsu Kyoushitsu 2nd Season"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
         "mal_id": 35241,
         "title": "Konohana Kitan"
       }
@@ -4075,8 +3945,112 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 9379,
-        "title": "Denpa Onna to Seishun Otoko"
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 16011,
+        "title": "Tokyo Ravens"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 39518,
+        "title": "Vampire in the Garden"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 39195,
+        "title": "Beastars"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 256,
+        "title": "Hoshi no Koe"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 13125,
+        "title": "Shinsekai yori"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 36098,
+        "title": "Kimi no Suizou wo Tabetai"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 50380,
+        "title": "Paripi Koumei"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 37972,
+        "title": "Hoshiai no Sora"
       }
     ],
     "votes": 1
@@ -4101,136 +4075,6 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 4898,
-        "title": "Kuroshitsuji"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 4975,
-        "title": "ChäoS;HEAd"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 5958,
-        "title": "Sora no Otoshimono"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 9347,
-        "title": "Fortune Arterial: Akai Yakusoku - Tadoritsuita Basho"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 11751,
-        "title": "Senki Zesshou Symphogear"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 12317,
-        "title": "Upotte!!"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 676,
-        "title": "Refrain Blue"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 1921,
-        "title": "Urusei Yatsura 2: Beautiful Dreamer"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 5671,
-        "title": "Saki"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 2926,
-        "title": "Myself; Yourself"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
         "mal_id": 72,
         "title": "Full Metal Panic? Fumoffu"
       }
@@ -4244,151 +4088,8 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 4654,
-        "title": "Toaru Majutsu no Index"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 5680,
-        "title": "K-On!"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 60,
-        "title": "Chrno Crusade"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 10087,
-        "title": "Fate/Zero"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 14741,
-        "title": "Chuunibyou demo Koi ga Shitai!"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 12413,
-        "title": "Jormungand"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 10213,
-        "title": "Maji de Watashi ni Koi Shinasai!"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
         "mal_id": 17919,
         "title": "Houkago no Pleiades (TV)"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 5114,
-        "title": "Fullmetal Alchemist: Brotherhood"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 120,
-        "title": "Fruits Basket"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 11013,
-        "title": "Inu x Boku SS"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 4725,
-        "title": "Ga-Rei: Zero"
       }
     ],
     "votes": 1
@@ -4426,8 +4127,8 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 9331,
-        "title": "Yumekui Merry"
+        "mal_id": 10213,
+        "title": "Maji de Watashi ni Koi Shinasai!"
       }
     ],
     "votes": 1
@@ -4439,73 +4140,8 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 552,
-        "title": "Digimon Adventure"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 9213,
-        "title": "Kowarekake no Orgel"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 2970,
-        "title": "Night Wizard"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 6746,
-        "title": "Durarara!!"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 2476,
-        "title": "School Days"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 71,
-        "title": "Full Metal Panic!"
+        "mal_id": 4725,
+        "title": "Ga-Rei: Zero"
       }
     ],
     "votes": 1
@@ -4530,8 +4166,8 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 15085,
-        "title": "Amnesia"
+        "mal_id": 11013,
+        "title": "Inu x Boku SS"
       }
     ],
     "votes": 1
@@ -4543,8 +4179,8 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 7724,
-        "title": "Shiki"
+        "mal_id": 6746,
+        "title": "Durarara!!"
       }
     ],
     "votes": 1
@@ -4556,8 +4192,8 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 369,
-        "title": "Boogiepop wa Warawanai"
+        "mal_id": 9213,
+        "title": "Kowarekake no Orgel"
       }
     ],
     "votes": 1
@@ -4569,8 +4205,8 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 26351,
-        "title": "Nagato Yuki-chan no Shoushitsu"
+        "mal_id": 676,
+        "title": "Refrain Blue"
       }
     ],
     "votes": 1
@@ -4582,8 +4218,8 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 8129,
-        "title": "Kuragehime"
+        "mal_id": 9347,
+        "title": "Fortune Arterial: Akai Yakusoku - Tadoritsuita Basho"
       }
     ],
     "votes": 1
@@ -4595,8 +4231,8 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 6594,
-        "title": "Katanagatari"
+        "mal_id": 12317,
+        "title": "Upotte!!"
       }
     ],
     "votes": 1
@@ -4608,8 +4244,8 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 31859,
-        "title": "Hai to Gensou no Grimgar"
+        "mal_id": 14741,
+        "title": "Chuunibyou demo Koi ga Shitai!"
       }
     ],
     "votes": 1
@@ -4621,8 +4257,8 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 34102,
-        "title": "Sakurada Reset"
+        "mal_id": 9331,
+        "title": "Yumekui Merry"
       }
     ],
     "votes": 1
@@ -4634,8 +4270,47 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 29093,
-        "title": "Grisaia no Meikyuu: Caprice no Mayu 0"
+        "mal_id": 12413,
+        "title": "Jormungand"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 120,
+        "title": "Fruits Basket"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 5114,
+        "title": "Fullmetal Alchemist: Brotherhood"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 5118,
+        "title": "Suzumiya Haruhi-chan no Yuuutsu"
       }
     ],
     "votes": 1
@@ -4660,8 +4335,8 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 10790,
-        "title": "Kore wa Zombie desu ka? of the Dead"
+        "mal_id": 13833,
+        "title": "Nagareboshi Lens"
       }
     ],
     "votes": 1
@@ -4673,8 +4348,8 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 440,
-        "title": "Shoujo Kakumei Utena"
+        "mal_id": 6702,
+        "title": "Fairy Tail"
       }
     ],
     "votes": 1
@@ -4686,8 +4361,177 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 24,
-        "title": "School Rumble"
+        "mal_id": 9379,
+        "title": "Denpa Onna to Seishun Otoko"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 41025,
+        "title": "Fumetsu no Anata e"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 8129,
+        "title": "Kuragehime"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 5355,
+        "title": "Sengoku Basara"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 552,
+        "title": "Digimon Adventure"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 2970,
+        "title": "Night Wizard"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 11751,
+        "title": "Senki Zesshou Symphogear"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 5671,
+        "title": "Saki"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 8525,
+        "title": "Kami nomi zo Shiru Sekai"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 5680,
+        "title": "K-On!"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 4975,
+        "title": "ChäoS;HEAd"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 5958,
+        "title": "Sora no Otoshimono"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 26351,
+        "title": "Nagato Yuki-chan no Shoushitsu"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 369,
+        "title": "Boogiepop wa Warawanai"
       }
     ],
     "votes": 1
@@ -4725,112 +4569,8 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 9922,
-        "title": "Oretachi ni Tsubasa wa Nai: Under the Innocent Sky."
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 143,
-        "title": "Kannazuki no Miko"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 22147,
-        "title": "Amagi Brilliant Park"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 8525,
-        "title": "Kami nomi zo Shiru Sekai"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 7647,
-        "title": "Arakawa Under the Bridge"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 5940,
-        "title": "Seiken no Blacksmith"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 15583,
-        "title": "Date A Live"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 13629,
-        "title": "Furiko"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
-      },
-      {
-        "mal_id": 5355,
-        "title": "Sengoku Basara"
+        "mal_id": 21881,
+        "title": "Sword Art Online II"
       }
     ],
     "votes": 1
@@ -4855,8 +4595,99 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 21881,
-        "title": "Sword Art Online II"
+        "mal_id": 7724,
+        "title": "Shiki"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 4898,
+        "title": "Kuroshitsuji"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 24,
+        "title": "School Rumble"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 10790,
+        "title": "Kore wa Zombie desu ka? of the Dead"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 440,
+        "title": "Shoujo Kakumei Utena"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 31859,
+        "title": "Hai to Gensou no Grimgar"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 15085,
+        "title": "Amnesia"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 6594,
+        "title": "Katanagatari"
       }
     ],
     "votes": 1
@@ -4894,8 +4725,190 @@
         "title": "Angel Beats!"
       },
       {
-        "mal_id": 21431,
-        "title": "Gokukoku no Brynhildr"
+        "mal_id": 2926,
+        "title": "Myself; Yourself"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 2476,
+        "title": "School Days"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 4654,
+        "title": "Toaru Majutsu no Index"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 10087,
+        "title": "Fate/Zero"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 1921,
+        "title": "Urusei Yatsura 2: Beautiful Dreamer"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 60,
+        "title": "Chrno Crusade"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 71,
+        "title": "Full Metal Panic!"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 7647,
+        "title": "Arakawa Under the Bridge"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 15583,
+        "title": "Date A Live"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 13629,
+        "title": "Furiko"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 143,
+        "title": "Kannazuki no Miko"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 9922,
+        "title": "Oretachi ni Tsubasa wa Nai: Under the Innocent Sky."
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 5940,
+        "title": "Seiken no Blacksmith"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 22147,
+        "title": "Amagi Brilliant Park"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 6547,
+        "title": "Angel Beats!"
+      },
+      {
+        "mal_id": 34102,
+        "title": "Sakurada Reset"
       }
     ],
     "votes": 1
@@ -9706,6 +9719,1449 @@
       {
         "mal_id": 58271,
         "title": "Honey Lemon Soda"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 9253,
+        "title": "Steins;Gate"
+      }
+    ],
+    "votes": 132
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 42249,
+        "title": "Tokyo Revengers"
+      }
+    ],
+    "votes": 68
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 31240,
+        "title": "Re:Zero kara Hajimeru Isekai Seikatsu"
+      }
+    ],
+    "votes": 51
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 32729,
+        "title": "Orange"
+      }
+    ],
+    "votes": 37
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 30015,
+        "title": "ReLIFE"
+      }
+    ],
+    "votes": 26
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 37779,
+        "title": "Yakusoku no Neverland"
+      }
+    ],
+    "votes": 22
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 9989,
+        "title": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai."
+      }
+    ],
+    "votes": 19
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 1535,
+        "title": "Death Note"
+      }
+    ],
+    "votes": 15
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 44074,
+        "title": "Shiguang Dailiren"
+      }
+    ],
+    "votes": 15
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 235,
+        "title": "Meitantei Conan"
+      }
+    ],
+    "votes": 14
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 47194,
+        "title": "Summertime Render"
+      }
+    ],
+    "votes": 11
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 28999,
+        "title": "Charlotte"
+      }
+    ],
+    "votes": 10
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 23283,
+        "title": "Zankyou no Terror"
+      }
+    ],
+    "votes": 9
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 1889,
+        "title": "Higurashi no Naku Koro ni Kai"
+      }
+    ],
+    "votes": 7
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 28851,
+        "title": "Koe no Katachi"
+      }
+    ],
+    "votes": 6
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 52034,
+        "title": "[Oshi no Ko]"
+      }
+    ],
+    "votes": 5
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 13125,
+        "title": "Shinsekai yori"
+      }
+    ],
+    "votes": 5
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 28621,
+        "title": "Subete ga F ni Naru"
+      }
+    ],
+    "votes": 5
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 11111,
+        "title": "Another"
+      }
+    ],
+    "votes": 5
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 19,
+        "title": "Monster"
+      }
+    ],
+    "votes": 5
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 9756,
+        "title": "Mahou Shoujo Madoka★Magica"
+      }
+    ],
+    "votes": 5
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 32281,
+        "title": "Kimi no Na wa."
+      }
+    ],
+    "votes": 4
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 934,
+        "title": "Higurashi no Naku Koro ni"
+      }
+    ],
+    "votes": 4
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 7785,
+        "title": "Yojouhan Shinwa Taikei"
+      }
+    ],
+    "votes": 4
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 23423,
+        "title": "Mujaki no Rakuen"
+      }
+    ],
+    "votes": 4
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 8425,
+        "title": "Gosick"
+      }
+    ],
+    "votes": 4
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 36548,
+        "title": "Kokkoku"
+      }
+    ],
+    "votes": 4
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 2596,
+        "title": "Shinreigari"
+      }
+    ],
+    "votes": 4
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 12189,
+        "title": "Hyouka"
+      }
+    ],
+    "votes": 3
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 40046,
+        "title": "Id:Invaded"
+      }
+    ],
+    "votes": 3
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 46095,
+        "title": "Vivy: Fluorite Eye's Song"
+      }
+    ],
+    "votes": 3
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 2236,
+        "title": "Toki wo Kakeru Shoujo"
+      }
+    ],
+    "votes": 3
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 43299,
+        "title": "Wonder Egg Priority"
+      }
+    ],
+    "votes": 3
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 28497,
+        "title": "Rokka no Yuusha"
+      }
+    ],
+    "votes": 3
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 60489,
+        "title": "Takopii no Genzai"
+      }
+    ],
+    "votes": 3
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 30484,
+        "title": "Steins;Gate 0"
+      }
+    ],
+    "votes": 3
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 8142,
+        "title": "Colorful (Movie)"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 22535,
+        "title": "Kiseijuu: Sei no Kakuritsu"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 39587,
+        "title": "Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 6880,
+        "title": "Deadman Wonderland"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 10721,
+        "title": "Mawaru Penguindrum"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 13601,
+        "title": "Psycho-Pass"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 10620,
+        "title": "Mirai Nikki (TV)"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 31933,
+        "title": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 28223,
+        "title": "Death Parade"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 38329,
+        "title": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 2593,
+        "title": "Kara no Kyoukai Movie 1: Fukan Fuukei"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 39535,
+        "title": "Mushoku Tensei: Isekai Ittara Honki Dasu"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 35626,
+        "title": "Yao Shen Ji"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 7311,
+        "title": "Suzumiya Haruhi no Shoushitsu"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 4181,
+        "title": "Clannad: After Story"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 38816,
+        "title": "Hello World"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 31646,
+        "title": "3-gatsu no Lion"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 2129,
+        "title": "True Tears"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 12467,
+        "title": "Nazo no Kanojo X"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 14807,
+        "title": "Kara no Kyoukai Movie: Mirai Fukuin"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 199,
+        "title": "Sen to Chihiro no Kamikakushi"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 33012,
+        "title": "Island"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 341,
+        "title": "Spiral: Suiri no Kizuna"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 13655,
+        "title": "Little Busters!"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 37497,
+        "title": "Irozuku Sekai no Ashita kara"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 21877,
+        "title": "High Score Girl"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 39468,
+        "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 52865,
+        "title": "Romantic Killer"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 40904,
+        "title": "Bokutachi no Remake"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 37451,
+        "title": "Boogiepop wa Warawanai (2019)"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 50586,
+        "title": "Migi to Dali"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 160,
+        "title": "Ima, Soko ni Iru Boku"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 37345,
+        "title": "Plunderer"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 35062,
+        "title": "Mahoutsukai no Yome"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 49938,
+        "title": "Ame wo Tsugeru Hyouryuu Danchi"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 31478,
+        "title": "Bungou Stray Dogs"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 30709,
+        "title": "Kamisama Hajimemashita: Kako-hen"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 35835,
+        "title": "RErideD: Tokigoe no Derrida"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 34933,
+        "title": "Kakegurui"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 40911,
+        "title": "Yuukoku no Moriarty"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 50608,
+        "title": "Tokyo Revengers: Seiya Kessen-hen"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 38659,
+        "title": "Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 2167,
+        "title": "Clannad"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 36098,
+        "title": "Kimi no Suizou wo Tabetai"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 31798,
+        "title": "Kiznaiver"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 30187,
+        "title": "Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 32983,
+        "title": "Natsume Yuujinchou Go"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 20507,
+        "title": "Noragami"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 32998,
+        "title": "91 Days"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 34498,
+        "title": "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 28617,
+        "title": "Punch Line"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 35044,
+        "title": "Tu Bian Yingxiong Leaf"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 41006,
+        "title": "Higurashi no Naku Koro ni Gou"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 23847,
+        "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 10588,
+        "title": "Persona 4 the Animation"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 8426,
+        "title": "Hourou Musuko"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 34102,
+        "title": "Sakurada Reset"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 17074,
+        "title": "Monogatari Series: Second Season"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 1210,
+        "title": "NHK ni Youkoso!"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 11887,
+        "title": "Kokoro Connect"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 23209,
+        "title": "Sora no Method"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 19685,
+        "title": "Kanojo ga Flag wo Oraretara"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 15689,
+        "title": "Nekomonogatari: Kuro"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 35466,
+        "title": "ReLIFE: Kanketsu-hen"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 31580,
+        "title": "Ajin"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 34620,
+        "title": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 5630,
+        "title": "Higashi no Eden"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 37972,
+        "title": "Hoshiai no Sora"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 3358,
+        "title": "Kure-nai"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 28619,
+        "title": "Ranpo Kitan: Game of Laplace"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 622,
+        "title": "Natsu-iro no Sunadokei"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 14075,
+        "title": "Zetsuen no Tempest"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 23273,
+        "title": "Shigatsu wa Kimi no Uso"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 21845,
+        "title": "Ushinawareta Mirai wo Motomete"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      },
+      {
+        "mal_id": 323,
+        "title": "Mousou Dairinin"
       }
     ],
     "votes": 1
@@ -15467,7 +16923,7 @@
         "title": "Death Note"
       }
     ],
-    "votes": 5
+    "votes": 6
   },
   {
     "entry": [
@@ -20667,7 +22123,7 @@
         "title": "Sousou no Frieren"
       }
     ],
-    "votes": 11
+    "votes": 12
   },
   {
     "entry": [
@@ -23003,6 +24459,45 @@
         "title": "Golden Time"
       },
       {
+        "mal_id": 28297,
+        "title": "Ore Monogatari!!"
+      }
+    ],
+    "votes": 4
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 17895,
+        "title": "Golden Time"
+      },
+      {
+        "mal_id": 42897,
+        "title": "Horimiya"
+      }
+    ],
+    "votes": 4
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 17895,
+        "title": "Golden Time"
+      },
+      {
+        "mal_id": 37450,
+        "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
+      }
+    ],
+    "votes": 4
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 17895,
+        "title": "Golden Time"
+      },
+      {
         "mal_id": 4181,
         "title": "Clannad: After Story"
       }
@@ -23029,32 +24524,6 @@
         "title": "Golden Time"
       },
       {
-        "mal_id": 37450,
-        "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai"
-      }
-    ],
-    "votes": 4
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 17895,
-        "title": "Golden Time"
-      },
-      {
-        "mal_id": 28297,
-        "title": "Ore Monogatari!!"
-      }
-    ],
-    "votes": 4
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 17895,
-        "title": "Golden Time"
-      },
-      {
         "mal_id": 16,
         "title": "Hachimitsu to Clover"
       }
@@ -23070,19 +24539,6 @@
       {
         "mal_id": 6045,
         "title": "Kimi ni Todoke"
-      }
-    ],
-    "votes": 3
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 17895,
-        "title": "Golden Time"
-      },
-      {
-        "mal_id": 42897,
-        "title": "Horimiya"
       }
     ],
     "votes": 3
@@ -26292,6 +27748,19 @@
         "title": "Horimiya"
       },
       {
+        "mal_id": 34822,
+        "title": "Tsuki ga Kirei"
+      }
+    ],
+    "votes": 5
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 42897,
+        "title": "Horimiya"
+      },
+      {
         "mal_id": 53126,
         "title": "Yamada-kun to Lv999 no Koi wo Suru"
       }
@@ -26331,6 +27800,32 @@
         "title": "Horimiya"
       },
       {
+        "mal_id": 17895,
+        "title": "Golden Time"
+      }
+    ],
+    "votes": 4
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 42897,
+        "title": "Horimiya"
+      },
+      {
+        "mal_id": 50739,
+        "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken"
+      }
+    ],
+    "votes": 4
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 42897,
+        "title": "Horimiya"
+      },
+      {
         "mal_id": 59845,
         "title": "Kaoru Hana wa Rin to Saku"
       }
@@ -26357,34 +27852,8 @@
         "title": "Horimiya"
       },
       {
-        "mal_id": 50739,
-        "title": "Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken"
-      }
-    ],
-    "votes": 4
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 42897,
-        "title": "Horimiya"
-      },
-      {
         "mal_id": 37999,
         "title": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen"
-      }
-    ],
-    "votes": 4
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 42897,
-        "title": "Horimiya"
-      },
-      {
-        "mal_id": 34822,
-        "title": "Tsuki ga Kirei"
       }
     ],
     "votes": 4
@@ -26424,19 +27893,6 @@
       {
         "mal_id": 52578,
         "title": "Boku no Kokoro no Yabai Yatsu"
-      }
-    ],
-    "votes": 3
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 42897,
-        "title": "Horimiya"
-      },
-      {
-        "mal_id": 17895,
-        "title": "Golden Time"
       }
     ],
     "votes": 3
@@ -28831,7 +30287,7 @@
         "title": "Yuu☆Yuu☆Hakusho"
       }
     ],
-    "votes": 60
+    "votes": 59
   },
   {
     "entry": [
@@ -28944,8 +30400,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 34572,
-        "title": "Black Clover"
+        "mal_id": 1735,
+        "title": "Naruto: Shippuuden"
       }
     ],
     "votes": 14
@@ -28957,8 +30413,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 1735,
-        "title": "Naruto: Shippuuden"
+        "mal_id": 34572,
+        "title": "Black Clover"
       }
     ],
     "votes": 14
@@ -28983,8 +30439,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 38000,
-        "title": "Kimetsu no Yaiba"
+        "mal_id": 16498,
+        "title": "Shingeki no Kyojin"
       }
     ],
     "votes": 12
@@ -28996,8 +30452,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 16498,
-        "title": "Shingeki no Kyojin"
+        "mal_id": 38000,
+        "title": "Kimetsu no Yaiba"
       }
     ],
     "votes": 12
@@ -29048,19 +30504,6 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 6702,
-        "title": "Fairy Tail"
-      }
-    ],
-    "votes": 6
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
         "mal_id": 9756,
         "title": "Mahou Shoujo Madoka★Magica"
       }
@@ -29074,8 +30517,34 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
+        "mal_id": 6702,
+        "title": "Fairy Tail"
+      }
+    ],
+    "votes": 6
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
         "mal_id": 32182,
         "title": "Mob Psycho 100"
+      }
+    ],
+    "votes": 5
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 10087,
+        "title": "Fate/Zero"
       }
     ],
     "votes": 5
@@ -29113,21 +30582,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 10087,
-        "title": "Fate/Zero"
-      }
-    ],
-    "votes": 5
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 18115,
-        "title": "Magi: The Kingdom of Magic"
+        "mal_id": 22199,
+        "title": "Akame ga Kill!"
       }
     ],
     "votes": 4
@@ -29139,8 +30595,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 1604,
-        "title": "Katekyou Hitman Reborn!"
+        "mal_id": 269,
+        "title": "Bleach"
       }
     ],
     "votes": 4
@@ -29178,8 +30634,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 22199,
-        "title": "Akame ga Kill!"
+        "mal_id": 18115,
+        "title": "Magi: The Kingdom of Magic"
       }
     ],
     "votes": 4
@@ -29191,8 +30647,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 269,
-        "title": "Bleach"
+        "mal_id": 1604,
+        "title": "Katekyou Hitman Reborn!"
       }
     ],
     "votes": 4
@@ -29230,21 +30686,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 42625,
-        "title": "Heion Sedai no Idaten-tachi"
-      }
-    ],
-    "votes": 3
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 37779,
-        "title": "Yakusoku no Neverland"
+        "mal_id": 24833,
+        "title": "Ansatsu Kyoushitsu"
       }
     ],
     "votes": 3
@@ -29269,71 +30712,6 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 1535,
-        "title": "Death Note"
-      }
-    ],
-    "votes": 3
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 24833,
-        "title": "Ansatsu Kyoushitsu"
-      }
-    ],
-    "votes": 3
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 29854,
-        "title": "Ushio to Tora (TV)"
-      }
-    ],
-    "votes": 3
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 1482,
-        "title": "D.Gray-man"
-      }
-    ],
-    "votes": 3
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 29803,
-        "title": "Overlord"
-      }
-    ],
-    "votes": 3
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
         "mal_id": 45,
         "title": "Rurouni Kenshin: Meiji Kenkaku Romantan"
       }
@@ -29347,8 +30725,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 132,
-        "title": "GetBackers"
+        "mal_id": 1535,
+        "title": "Death Note"
       }
     ],
     "votes": 3
@@ -29360,21 +30738,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 136,
-        "title": "Hunter x Hunter"
-      }
-    ],
-    "votes": 3
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 22535,
-        "title": "Kiseijuu: Sei no Kakuritsu"
+        "mal_id": 37779,
+        "title": "Yakusoku no Neverland"
       }
     ],
     "votes": 3
@@ -29399,11 +30764,89 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 33486,
-        "title": "Boku no Hero Academia 2nd Season"
+        "mal_id": 29854,
+        "title": "Ushio to Tora (TV)"
       }
     ],
-    "votes": 2
+    "votes": 3
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 136,
+        "title": "Hunter x Hunter"
+      }
+    ],
+    "votes": 3
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 132,
+        "title": "GetBackers"
+      }
+    ],
+    "votes": 3
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 22535,
+        "title": "Kiseijuu: Sei no Kakuritsu"
+      }
+    ],
+    "votes": 3
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 29803,
+        "title": "Overlord"
+      }
+    ],
+    "votes": 3
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 42625,
+        "title": "Heion Sedai no Idaten-tachi"
+      }
+    ],
+    "votes": 3
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 1482,
+        "title": "D.Gray-man"
+      }
+    ],
+    "votes": 3
   },
   {
     "entry": [
@@ -29414,84 +30857,6 @@
       {
         "mal_id": 40908,
         "title": "Kemono Jihen"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 33,
-        "title": "Kenpuu Denki Berserk"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 31478,
-        "title": "Bungou Stray Dogs"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 30,
-        "title": "Shinseiki Evangelion"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 39534,
-        "title": "Jibaku Shounen Hanako-kun"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 28171,
-        "title": "Shokugeki no Souma"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 36456,
-        "title": "Boku no Hero Academia 3rd Season"
       }
     ],
     "votes": 2
@@ -29516,6 +30881,19 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
+        "mal_id": 33486,
+        "title": "Boku no Hero Academia 2nd Season"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
         "mal_id": 22043,
         "title": "Fairy Tail (2014)"
       }
@@ -29529,8 +30907,21 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 20689,
-        "title": "Hamatora The Animation"
+        "mal_id": 31478,
+        "title": "Bungou Stray Dogs"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 33,
+        "title": "Kenpuu Denki Berserk"
       }
     ],
     "votes": 2
@@ -29544,6 +30935,84 @@
       {
         "mal_id": 37521,
         "title": "Vinland Saga"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 918,
+        "title": "Gintama"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 5040,
+        "title": "One Outs"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 30,
+        "title": "Shinseiki Evangelion"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 28171,
+        "title": "Shokugeki no Souma"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 263,
+        "title": "Hajime no Ippo"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 39534,
+        "title": "Jibaku Shounen Hanako-kun"
       }
     ],
     "votes": 2
@@ -29581,8 +31050,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 263,
-        "title": "Hajime no Ippo"
+        "mal_id": 36456,
+        "title": "Boku no Hero Academia 3rd Season"
       }
     ],
     "votes": 2
@@ -29594,21 +31063,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 5040,
-        "title": "One Outs"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 918,
-        "title": "Gintama"
+        "mal_id": 20689,
+        "title": "Hamatora The Animation"
       }
     ],
     "votes": 2
@@ -29633,6 +31089,19 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
+        "mal_id": 11757,
+        "title": "Sword Art Online"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
         "mal_id": 1818,
         "title": "Claymore"
       }
@@ -29646,8 +31115,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 37520,
-        "title": "Dororo"
+        "mal_id": 12431,
+        "title": "Uchuu Kyoudai"
       }
     ],
     "votes": 2
@@ -29659,8 +31128,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 12431,
-        "title": "Uchuu Kyoudai"
+        "mal_id": 37520,
+        "title": "Dororo"
       }
     ],
     "votes": 2
@@ -29698,47 +31167,34 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 49052,
-        "title": "Ao Ashi"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 38671,
-        "title": "Enen no Shouboutai"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 11757,
-        "title": "Sword Art Online"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
         "mal_id": 857,
         "title": "Air Gear"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 28497,
+        "title": "Rokka no Yuusha"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 49052,
+        "title": "Ao Ashi"
       }
     ],
     "votes": 2
@@ -29776,21 +31232,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 28497,
-        "title": "Rokka no Yuusha"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 37447,
-        "title": "Karakuri Circus"
+        "mal_id": 37430,
+        "title": "Tensei shitara Slime Datta Ken"
       }
     ],
     "votes": 1
@@ -29815,8 +31258,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 35839,
-        "title": "Sora yori mo Tooi Basho"
+        "mal_id": 46569,
+        "title": "Jigokuraku"
       }
     ],
     "votes": 1
@@ -29828,21 +31271,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 31741,
-        "title": "Magi: Sinbad no Bouken (TV)"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 37430,
-        "title": "Tensei shitara Slime Datta Ken"
+        "mal_id": 50265,
+        "title": "Spy x Family"
       }
     ],
     "votes": 1
@@ -29867,8 +31297,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 51009,
-        "title": "Jujutsu Kaisen 2nd Season"
+        "mal_id": 31741,
+        "title": "Magi: Sinbad no Bouken (TV)"
       }
     ],
     "votes": 1
@@ -29880,8 +31310,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 46569,
-        "title": "Jigokuraku"
+        "mal_id": 35839,
+        "title": "Sora yori mo Tooi Basho"
       }
     ],
     "votes": 1
@@ -29893,21 +31323,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 33478,
-        "title": "UQ Holder! Mahou Sensei Negima! 2"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 1486,
-        "title": "Kodomo no Omocha (TV)"
+        "mal_id": 6547,
+        "title": "Angel Beats!"
       }
     ],
     "votes": 1
@@ -29921,6 +31338,19 @@
       {
         "mal_id": 13601,
         "title": "Psycho-Pass"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 1486,
+        "title": "Kodomo no Omocha (TV)"
       }
     ],
     "votes": 1
@@ -29958,45 +31388,6 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 39355,
-        "title": "Radiant 2nd Season"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 2001,
-        "title": "Tengen Toppa Gurren Lagann"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 35849,
-        "title": "Darling in the FranXX"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
         "mal_id": 40834,
         "title": "Ousama Ranking"
       }
@@ -30010,8 +31401,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 6547,
-        "title": "Angel Beats!"
+        "mal_id": 39355,
+        "title": "Radiant 2nd Season"
       }
     ],
     "votes": 1
@@ -30036,8 +31427,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 24439,
-        "title": "Kekkai Sensen"
+        "mal_id": 33478,
+        "title": "UQ Holder! Mahou Sensei Negima! 2"
       }
     ],
     "votes": 1
@@ -30049,8 +31440,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 40010,
-        "title": "Ishuzoku Reviewers"
+        "mal_id": 37447,
+        "title": "Karakuri Circus"
       }
     ],
     "votes": 1
@@ -30062,8 +31453,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 4898,
-        "title": "Kuroshitsuji"
+        "mal_id": 2001,
+        "title": "Tengen Toppa Gurren Lagann"
       }
     ],
     "votes": 1
@@ -30075,138 +31466,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 38668,
-        "title": "Dorohedoro"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 20507,
-        "title": "Noragami"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 5081,
-        "title": "Bakemonogatari"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 19291,
-        "title": "Pokemon XY"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 43814,
-        "title": "Deatte 5-byou de Battle"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 42205,
-        "title": "Shaman King (2021)"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 52299,
-        "title": "Ore dake Level Up na Ken"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 39535,
-        "title": "Mushoku Tensei: Isekai Ittara Honki Dasu"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 39533,
-        "title": "Given"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 37965,
-        "title": "Kaze ga Tsuyoku Fuiteiru"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 838,
-        "title": "Narutaru: Mukuro Naru Hoshi Tama Taru Ko"
+        "mal_id": 51009,
+        "title": "Jujutsu Kaisen 2nd Season"
       }
     ],
     "votes": 1
@@ -30231,6 +31492,97 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
+        "mal_id": 43814,
+        "title": "Deatte 5-byou de Battle"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 39535,
+        "title": "Mushoku Tensei: Isekai Ittara Honki Dasu"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 20507,
+        "title": "Noragami"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 4898,
+        "title": "Kuroshitsuji"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 5081,
+        "title": "Bakemonogatari"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 40010,
+        "title": "Ishuzoku Reviewers"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 21273,
+        "title": "Gochuumon wa Usagi desu ka?"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
         "mal_id": 19,
         "title": "Monster"
       }
@@ -30244,8 +31596,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 9834,
-        "title": "Level E"
+        "mal_id": 52299,
+        "title": "Ore dake Level Up na Ken"
       }
     ],
     "votes": 1
@@ -30257,8 +31609,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 50265,
-        "title": "Spy x Family"
+        "mal_id": 39533,
+        "title": "Given"
       }
     ],
     "votes": 1
@@ -30270,8 +31622,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 30123,
-        "title": "Akagami no Shirayuki-hime"
+        "mal_id": 19291,
+        "title": "Pokemon XY"
       }
     ],
     "votes": 1
@@ -30283,8 +31635,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 59205,
-        "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha"
+        "mal_id": 37965,
+        "title": "Kaze ga Tsuyoku Fuiteiru"
       }
     ],
     "votes": 1
@@ -30309,8 +31661,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 205,
-        "title": "Samurai Champloo"
+        "mal_id": 59205,
+        "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha"
       }
     ],
     "votes": 1
@@ -30322,8 +31674,47 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 6594,
-        "title": "Katanagatari"
+        "mal_id": 9834,
+        "title": "Level E"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 42205,
+        "title": "Shaman King (2021)"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 33421,
+        "title": "Yi Ren Zhi Xia"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 24439,
+        "title": "Kekkai Sensen"
       }
     ],
     "votes": 1
@@ -30348,8 +31739,73 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 33421,
-        "title": "Yi Ren Zhi Xia"
+        "mal_id": 6594,
+        "title": "Katanagatari"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 38668,
+        "title": "Dorohedoro"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 205,
+        "title": "Samurai Champloo"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 838,
+        "title": "Narutaru: Mukuro Naru Hoshi Tama Taru Ko"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 30123,
+        "title": "Akagami no Shirayuki-hime"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 35849,
+        "title": "Darling in the FranXX"
       }
     ],
     "votes": 1
@@ -30387,8 +31843,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 38691,
-        "title": "Dr. Stone"
+        "mal_id": 38671,
+        "title": "Enen no Shouboutai"
       }
     ],
     "votes": 1
@@ -30439,6 +31895,19 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
+        "mal_id": 38691,
+        "title": "Dr. Stone"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
         "mal_id": 22135,
         "title": "Ping Pong the Animation"
       }
@@ -30452,8 +31921,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 2819,
-        "title": "Dragon Quest: Yuusha Abel Densetsu"
+        "mal_id": 40623,
+        "title": "Dokyuu Hentai HxEros"
       }
     ],
     "votes": 1
@@ -30467,32 +31936,6 @@
       {
         "mal_id": 558,
         "title": "Major S2"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 30694,
-        "title": "Dragon Ball Super"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 40623,
-        "title": "Dokyuu Hentai HxEros"
       }
     ],
     "votes": 1
@@ -30519,6 +31962,19 @@
       {
         "mal_id": 738,
         "title": "MÄR"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 2819,
+        "title": "Dragon Quest: Yuusha Abel Densetsu"
       }
     ],
     "votes": 1
@@ -30712,6 +32168,19 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
+        "mal_id": 30694,
+        "title": "Dragon Ball Super"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
         "mal_id": 121,
         "title": "Fullmetal Alchemist"
       }
@@ -30725,8 +32194,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 6,
-        "title": "Trigun"
+        "mal_id": 18179,
+        "title": "Yowamushi Pedal"
       }
     ],
     "votes": 1
@@ -30740,32 +32209,6 @@
       {
         "mal_id": 10015,
         "title": "Yu☆Gi☆Oh! Zexal"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 15489,
-        "title": "Yu☆Gi☆Oh! Zexal Second"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 18179,
-        "title": "Yowamushi Pedal"
       }
     ],
     "votes": 1
@@ -30803,6 +32246,32 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
+        "mal_id": 11771,
+        "title": "Kuroko no Basket"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 15489,
+        "title": "Yu☆Gi☆Oh! Zexal Second"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
         "mal_id": 129,
         "title": "Gensoumaden Saiyuuki"
       }
@@ -30816,8 +32285,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 198,
-        "title": "Speed Grapher"
+        "mal_id": 48791,
+        "title": "Luo Xiaohei Zhanji: Zhongsheng Zhi Men"
       }
     ],
     "votes": 1
@@ -30831,32 +32300,6 @@
       {
         "mal_id": 32105,
         "title": "Sousei no Onmyouji"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 4981,
-        "title": "Casshern Sins"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 48791,
-        "title": "Luo Xiaohei Zhanji: Zhongsheng Zhi Men"
       }
     ],
     "votes": 1
@@ -30894,8 +32337,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 11771,
-        "title": "Kuroko no Basket"
+        "mal_id": 198,
+        "title": "Speed Grapher"
       }
     ],
     "votes": 1
@@ -30920,21 +32363,8 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 1726,
-        "title": "Devil May Cry"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 3972,
-        "title": "Yu☆Gi☆Oh! 5D's"
+        "mal_id": 135,
+        "title": "Hikaru no Go"
       }
     ],
     "votes": 1
@@ -30948,6 +32378,19 @@
       {
         "mal_id": 777,
         "title": "Hellsing Ultimate"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 1726,
+        "title": "Devil May Cry"
       }
     ],
     "votes": 1
@@ -30985,34 +32428,34 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
+        "mal_id": 6,
+        "title": "Trigun"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 3972,
+        "title": "Yu☆Gi☆Oh! 5D's"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
         "mal_id": 15197,
         "title": "Code Geass: Boukoku no Akito 2 - Hikisakareshi Yokuryuu"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 2251,
-        "title": "Baccano!"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      },
-      {
-        "mal_id": 135,
-        "title": "Hikaru no Go"
       }
     ],
     "votes": 1
@@ -31063,8 +32506,21 @@
         "title": "Hunter x Hunter (2011)"
       },
       {
-        "mal_id": 21273,
-        "title": "Gochuumon wa Usagi desu ka?"
+        "mal_id": 2251,
+        "title": "Baccano!"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
+      },
+      {
+        "mal_id": 4981,
+        "title": "Casshern Sins"
       }
     ],
     "votes": 1
@@ -31544,6 +33000,19 @@
         "title": "Hyouka"
       },
       {
+        "mal_id": 31043,
+        "title": "Boku dake ga Inai Machi"
+      }
+    ],
+    "votes": 3
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 12189,
+        "title": "Hyouka"
+      },
+      {
         "mal_id": 34102,
         "title": "Sakurada Reset"
       }
@@ -31609,32 +33078,6 @@
         "title": "Hyouka"
       },
       {
-        "mal_id": 33263,
-        "title": "Kubikiri Cycle: Aoiro Savant to Zaregotozukai"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 12189,
-        "title": "Hyouka"
-      },
-      {
-        "mal_id": 28677,
-        "title": "Yamada-kun to 7-nin no Majo"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 12189,
-        "title": "Hyouka"
-      },
-      {
         "mal_id": 48849,
         "title": "Sonny Boy"
       }
@@ -31650,6 +33093,19 @@
       {
         "mal_id": 14075,
         "title": "Zetsuen no Tempest"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 12189,
+        "title": "Hyouka"
+      },
+      {
+        "mal_id": 28677,
+        "title": "Yamada-kun to 7-nin no Majo"
       }
     ],
     "votes": 2
@@ -31713,8 +33169,8 @@
         "title": "Hyouka"
       },
       {
-        "mal_id": 31043,
-        "title": "Boku dake ga Inai Machi"
+        "mal_id": 33263,
+        "title": "Kubikiri Cycle: Aoiro Savant to Zaregotozukai"
       }
     ],
     "votes": 2
@@ -38893,7 +40349,7 @@
         "title": "Tenki no Ko"
       }
     ],
-    "votes": 68
+    "votes": 67
   },
   {
     "entry": [
@@ -38984,7 +40440,7 @@
         "title": "Suzume no Tojimari"
       }
     ],
-    "votes": 11
+    "votes": 10
   },
   {
     "entry": [
@@ -57990,7 +59446,7 @@
         "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!"
       }
     ],
-    "votes": 22
+    "votes": 23
   },
   {
     "entry": [
@@ -59667,7 +61123,7 @@
         "title": "Asobi Asobase"
       }
     ],
-    "votes": 39
+    "votes": 38
   },
   {
     "entry": [
@@ -61951,8 +63407,8 @@
         "title": "Odd Taxi"
       },
       {
-        "mal_id": 369,
-        "title": "Boogiepop wa Warawanai"
+        "mal_id": 440,
+        "title": "Shoujo Kakumei Utena"
       }
     ],
     "votes": 1
@@ -61977,8 +63433,34 @@
         "title": "Odd Taxi"
       },
       {
+        "mal_id": 52092,
+        "title": "My Home Hero"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 46102,
+        "title": "Odd Taxi"
+      },
+      {
         "mal_id": 457,
         "title": "Mushishi"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 46102,
+        "title": "Odd Taxi"
+      },
+      {
+        "mal_id": 369,
+        "title": "Boogiepop wa Warawanai"
       }
     ],
     "votes": 1
@@ -62003,34 +63485,8 @@
         "title": "Odd Taxi"
       },
       {
-        "mal_id": 9253,
-        "title": "Steins;Gate"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 46102,
-        "title": "Odd Taxi"
-      },
-      {
         "mal_id": 10721,
         "title": "Mawaru Penguindrum"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 46102,
-        "title": "Odd Taxi"
-      },
-      {
-        "mal_id": 440,
-        "title": "Shoujo Kakumei Utena"
       }
     ],
     "votes": 1
@@ -62120,8 +63576,8 @@
         "title": "Odd Taxi"
       },
       {
-        "mal_id": 40359,
-        "title": "Ikebukuro West Gate Park"
+        "mal_id": 9253,
+        "title": "Steins;Gate"
       }
     ],
     "votes": 1
@@ -62328,19 +63784,6 @@
         "title": "Odd Taxi"
       },
       {
-        "mal_id": 16742,
-        "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 46102,
-        "title": "Odd Taxi"
-      },
-      {
         "mal_id": 31240,
         "title": "Re:Zero kara Hajimeru Isekai Seikatsu"
       }
@@ -62367,8 +63810,8 @@
         "title": "Odd Taxi"
       },
       {
-        "mal_id": 28223,
-        "title": "Death Parade"
+        "mal_id": 32977,
+        "title": "Aggressive Retsuko"
       }
     ],
     "votes": 1
@@ -62380,8 +63823,21 @@
         "title": "Odd Taxi"
       },
       {
-        "mal_id": 7785,
-        "title": "Yojouhan Shinwa Taikei"
+        "mal_id": 16742,
+        "title": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 46102,
+        "title": "Odd Taxi"
+      },
+      {
+        "mal_id": 28223,
+        "title": "Death Parade"
       }
     ],
     "votes": 1
@@ -62419,8 +63875,21 @@
         "title": "Odd Taxi"
       },
       {
-        "mal_id": 32977,
-        "title": "Aggressive Retsuko"
+        "mal_id": 7785,
+        "title": "Yojouhan Shinwa Taikei"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 46102,
+        "title": "Odd Taxi"
+      },
+      {
+        "mal_id": 40359,
+        "title": "Ikebukuro West Gate Park"
       }
     ],
     "votes": 1
@@ -64616,8 +66085,8 @@
         "title": "Ore dake Level Up na Ken"
       },
       {
-        "mal_id": 52347,
-        "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su"
+        "mal_id": 28121,
+        "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
       }
     ],
     "votes": 4
@@ -64629,8 +66098,8 @@
         "title": "Ore dake Level Up na Ken"
       },
       {
-        "mal_id": 28121,
-        "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
+        "mal_id": 52347,
+        "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su"
       }
     ],
     "votes": 4
@@ -64668,8 +66137,8 @@
         "title": "Ore dake Level Up na Ken"
       },
       {
-        "mal_id": 48316,
-        "title": "Kage no Jitsuryokusha ni Naritakute!"
+        "mal_id": 44406,
+        "title": "Da Wang Rao Ming"
       }
     ],
     "votes": 2
@@ -64694,19 +66163,6 @@
         "title": "Ore dake Level Up na Ken"
       },
       {
-        "mal_id": 35790,
-        "title": "Tate no Yuusha no Nariagari"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 52299,
-        "title": "Ore dake Level Up na Ken"
-      },
-      {
         "mal_id": 29803,
         "title": "Overlord"
       }
@@ -64720,11 +66176,37 @@
         "title": "Ore dake Level Up na Ken"
       },
       {
-        "mal_id": 44406,
-        "title": "Da Wang Rao Ming"
+        "mal_id": 48316,
+        "title": "Kage no Jitsuryokusha ni Naritakute!"
       }
     ],
     "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 52299,
+        "title": "Ore dake Level Up na Ken"
+      },
+      {
+        "mal_id": 35790,
+        "title": "Tate no Yuusha no Nariagari"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 52299,
+        "title": "Ore dake Level Up na Ken"
+      },
+      {
+        "mal_id": 22535,
+        "title": "Kiseijuu: Sei no Kakuritsu"
+      }
+    ],
+    "votes": 1
   },
   {
     "entry": [
@@ -64746,8 +66228,8 @@
         "title": "Ore dake Level Up na Ken"
       },
       {
-        "mal_id": 30276,
-        "title": "One Punch Man"
+        "mal_id": 38000,
+        "title": "Kimetsu no Yaiba"
       }
     ],
     "votes": 1
@@ -64785,8 +66267,8 @@
         "title": "Ore dake Level Up na Ken"
       },
       {
-        "mal_id": 52830,
-        "title": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta"
+        "mal_id": 30276,
+        "title": "One Punch Man"
       }
     ],
     "votes": 1
@@ -64798,8 +66280,8 @@
         "title": "Ore dake Level Up na Ken"
       },
       {
-        "mal_id": 41353,
-        "title": "The God of High School"
+        "mal_id": 58059,
+        "title": "Tsue to Tsurugi no Wistoria"
       }
     ],
     "votes": 1
@@ -64824,21 +66306,8 @@
         "title": "Ore dake Level Up na Ken"
       },
       {
-        "mal_id": 22535,
-        "title": "Kiseijuu: Sei no Kakuritsu"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 52299,
-        "title": "Ore dake Level Up na Ken"
-      },
-      {
-        "mal_id": 1292,
-        "title": "Afro Samurai"
+        "mal_id": 41353,
+        "title": "The God of High School"
       }
     ],
     "votes": 1
@@ -64876,8 +66345,8 @@
         "title": "Ore dake Level Up na Ken"
       },
       {
-        "mal_id": 58059,
-        "title": "Tsue to Tsurugi no Wistoria"
+        "mal_id": 52830,
+        "title": "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta"
       }
     ],
     "votes": 1
@@ -64889,21 +66358,8 @@
         "title": "Ore dake Level Up na Ken"
       },
       {
-        "mal_id": 38000,
-        "title": "Kimetsu no Yaiba"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 52299,
-        "title": "Ore dake Level Up na Ken"
-      },
-      {
-        "mal_id": 41457,
-        "title": "86"
+        "mal_id": 60057,
+        "title": "Chao Neng Lifang: Chaofan Pian"
       }
     ],
     "votes": 1
@@ -65032,8 +66488,8 @@
         "title": "Ore dake Level Up na Ken"
       },
       {
-        "mal_id": 60057,
-        "title": "Chao Neng Lifang: Chaofan Pian"
+        "mal_id": 41457,
+        "title": "86"
       }
     ],
     "votes": 1
@@ -65244,7 +66700,7 @@
         "title": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu"
       }
     ],
-    "votes": 11
+    "votes": 10
   },
   {
     "entry": [
@@ -65266,19 +66722,6 @@
         "title": "Overlord"
       },
       {
-        "mal_id": 35790,
-        "title": "Tate no Yuusha no Nariagari"
-      }
-    ],
-    "votes": 7
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 29803,
-        "title": "Overlord"
-      },
-      {
         "mal_id": 28907,
         "title": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri"
       }
@@ -65292,8 +66735,8 @@
         "title": "Overlord"
       },
       {
-        "mal_id": 33926,
-        "title": "Quanzhi Gaoshou"
+        "mal_id": 35790,
+        "title": "Tate no Yuusha no Nariagari"
       }
     ],
     "votes": 7
@@ -65307,6 +66750,19 @@
       {
         "mal_id": 28121,
         "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka"
+      }
+    ],
+    "votes": 7
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 29803,
+        "title": "Overlord"
+      },
+      {
+        "mal_id": 33926,
+        "title": "Quanzhi Gaoshou"
       }
     ],
     "votes": 7
@@ -65357,8 +66813,8 @@
         "title": "Overlord"
       },
       {
-        "mal_id": 20785,
-        "title": "Mahouka Koukou no Rettousei"
+        "mal_id": 41710,
+        "title": "Genjitsu Shugi Yuusha no Oukoku Saikenki"
       }
     ],
     "votes": 4
@@ -65396,11 +66852,24 @@
         "title": "Overlord"
       },
       {
-        "mal_id": 41710,
-        "title": "Genjitsu Shugi Yuusha no Oukoku Saikenki"
+        "mal_id": 20785,
+        "title": "Mahouka Koukou no Rettousei"
       }
     ],
     "votes": 4
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 29803,
+        "title": "Overlord"
+      },
+      {
+        "mal_id": 34497,
+        "title": "Death March kara Hajimaru Isekai Kyousoukyoku"
+      }
+    ],
+    "votes": 3
   },
   {
     "entry": [
@@ -65461,8 +66930,8 @@
         "title": "Overlord"
       },
       {
-        "mal_id": 34497,
-        "title": "Death March kara Hajimaru Isekai Kyousoukyoku"
+        "mal_id": 59644,
+        "title": "Yasei no Last Boss ga Arawareta!"
       }
     ],
     "votes": 3
@@ -65565,8 +67034,8 @@
         "title": "Overlord"
       },
       {
-        "mal_id": 22199,
-        "title": "Akame ga Kill!"
+        "mal_id": 14345,
+        "title": "Btooom!"
       }
     ],
     "votes": 2
@@ -65591,34 +67060,34 @@
         "title": "Overlord"
       },
       {
-        "mal_id": 33,
-        "title": "Kenpuu Denki Berserk"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 29803,
-        "title": "Overlord"
-      },
-      {
-        "mal_id": 14345,
-        "title": "Btooom!"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 29803,
-        "title": "Overlord"
-      },
-      {
         "mal_id": 52299,
         "title": "Ore dake Level Up na Ken"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 29803,
+        "title": "Overlord"
+      },
+      {
+        "mal_id": 22199,
+        "title": "Akame ga Kill!"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 29803,
+        "title": "Overlord"
+      },
+      {
+        "mal_id": 33,
+        "title": "Kenpuu Denki Berserk"
       }
     ],
     "votes": 2
@@ -65656,11 +67125,11 @@
         "title": "Overlord"
       },
       {
-        "mal_id": 59644,
-        "title": "Yasei no Last Boss ga Arawareta!"
+        "mal_id": 37208,
+        "title": "Mo Dao Zu Shi"
       }
     ],
-    "votes": 2
+    "votes": 1
   },
   {
     "entry": [
@@ -65695,8 +67164,8 @@
         "title": "Overlord"
       },
       {
-        "mal_id": 38659,
-        "title": "Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru"
+        "mal_id": 34279,
+        "title": "Grancrest Senki"
       }
     ],
     "votes": 1
@@ -65760,138 +67229,21 @@
         "title": "Overlord"
       },
       {
+        "mal_id": 38659,
+        "title": "Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 29803,
+        "title": "Overlord"
+      },
+      {
         "mal_id": 1535,
         "title": "Death Note"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 29803,
-        "title": "Overlord"
-      },
-      {
-        "mal_id": 34279,
-        "title": "Grancrest Senki"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 29803,
-        "title": "Overlord"
-      },
-      {
-        "mal_id": 41487,
-        "title": "Tensei shitara Slime Datta Ken 2nd Season Part 2"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 29803,
-        "title": "Overlord"
-      },
-      {
-        "mal_id": 38990,
-        "title": "Chuan Shu Zijiu Zhinan"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 29803,
-        "title": "Overlord"
-      },
-      {
-        "mal_id": 37208,
-        "title": "Mo Dao Zu Shi"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 29803,
-        "title": "Overlord"
-      },
-      {
-        "mal_id": 38668,
-        "title": "Dorohedoro"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 29803,
-        "title": "Overlord"
-      },
-      {
-        "mal_id": 38830,
-        "title": "Hachi-nan tte, Sore wa Nai deshou!"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 29803,
-        "title": "Overlord"
-      },
-      {
-        "mal_id": 51297,
-        "title": "Ragna Crimson"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 29803,
-        "title": "Overlord"
-      },
-      {
-        "mal_id": 36882,
-        "title": "Arifureta Shokugyou de Sekai Saikyou"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 29803,
-        "title": "Overlord"
-      },
-      {
-        "mal_id": 36407,
-        "title": "Kenja no Mago"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 29803,
-        "title": "Overlord"
-      },
-      {
-        "mal_id": 13601,
-        "title": "Psycho-Pass"
       }
     ],
     "votes": 1
@@ -65916,8 +67268,112 @@
         "title": "Overlord"
       },
       {
+        "mal_id": 51297,
+        "title": "Ragna Crimson"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 29803,
+        "title": "Overlord"
+      },
+      {
+        "mal_id": 38990,
+        "title": "Chuan Shu Zijiu Zhinan"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 29803,
+        "title": "Overlord"
+      },
+      {
+        "mal_id": 38668,
+        "title": "Dorohedoro"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 29803,
+        "title": "Overlord"
+      },
+      {
+        "mal_id": 13601,
+        "title": "Psycho-Pass"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 29803,
+        "title": "Overlord"
+      },
+      {
+        "mal_id": 41487,
+        "title": "Tensei shitara Slime Datta Ken 2nd Season Part 2"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 29803,
+        "title": "Overlord"
+      },
+      {
         "mal_id": 38656,
         "title": "Darwin's Game"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 29803,
+        "title": "Overlord"
+      },
+      {
+        "mal_id": 38830,
+        "title": "Hachi-nan tte, Sore wa Nai deshou!"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 29803,
+        "title": "Overlord"
+      },
+      {
+        "mal_id": 36407,
+        "title": "Kenja no Mago"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 29803,
+        "title": "Overlord"
+      },
+      {
+        "mal_id": 36882,
+        "title": "Arifureta Shokugyou de Sekai Saikyou"
       }
     ],
     "votes": 1
@@ -72108,7 +73564,7 @@
         "title": "Cowboy Bebop"
       }
     ],
-    "votes": 121
+    "votes": 120
   },
   {
     "entry": [
@@ -76303,8 +77759,8 @@
         "title": "Shiguang Dailiren"
       },
       {
-        "mal_id": 40046,
-        "title": "Id:Invaded"
+        "mal_id": 28223,
+        "title": "Death Parade"
       }
     ],
     "votes": 7
@@ -76316,8 +77772,8 @@
         "title": "Shiguang Dailiren"
       },
       {
-        "mal_id": 28223,
-        "title": "Death Parade"
+        "mal_id": 40046,
+        "title": "Id:Invaded"
       }
     ],
     "votes": 7
@@ -76342,8 +77798,8 @@
         "title": "Shiguang Dailiren"
       },
       {
-        "mal_id": 37522,
-        "title": "Pet"
+        "mal_id": 32281,
+        "title": "Kimi no Na wa."
       }
     ],
     "votes": 4
@@ -76355,8 +77811,8 @@
         "title": "Shiguang Dailiren"
       },
       {
-        "mal_id": 32281,
-        "title": "Kimi no Na wa."
+        "mal_id": 37522,
+        "title": "Pet"
       }
     ],
     "votes": 4
@@ -76373,32 +77829,6 @@
       }
     ],
     "votes": 4
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 44074,
-        "title": "Shiguang Dailiren"
-      },
-      {
-        "mal_id": 37779,
-        "title": "Yakusoku no Neverland"
-      }
-    ],
-    "votes": 3
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 44074,
-        "title": "Shiguang Dailiren"
-      },
-      {
-        "mal_id": 40911,
-        "title": "Yuukoku no Moriarty"
-      }
-    ],
-    "votes": 3
   },
   {
     "entry": [
@@ -76446,6 +77876,45 @@
         "title": "Shiguang Dailiren"
       },
       {
+        "mal_id": 37779,
+        "title": "Yakusoku no Neverland"
+      }
+    ],
+    "votes": 3
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 44074,
+        "title": "Shiguang Dailiren"
+      },
+      {
+        "mal_id": 40911,
+        "title": "Yuukoku no Moriarty"
+      }
+    ],
+    "votes": 3
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 44074,
+        "title": "Shiguang Dailiren"
+      },
+      {
+        "mal_id": 31478,
+        "title": "Bungou Stray Dogs"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 44074,
+        "title": "Shiguang Dailiren"
+      },
+      {
         "mal_id": 9756,
         "title": "Mahou Shoujo Madoka★Magica"
       }
@@ -76459,8 +77928,8 @@
         "title": "Shiguang Dailiren"
       },
       {
-        "mal_id": 36649,
-        "title": "Banana Fish"
+        "mal_id": 46095,
+        "title": "Vivy: Fluorite Eye's Song"
       }
     ],
     "votes": 2
@@ -76498,32 +77967,6 @@
         "title": "Shiguang Dailiren"
       },
       {
-        "mal_id": 31478,
-        "title": "Bungou Stray Dogs"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 44074,
-        "title": "Shiguang Dailiren"
-      },
-      {
-        "mal_id": 46095,
-        "title": "Vivy: Fluorite Eye's Song"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 44074,
-        "title": "Shiguang Dailiren"
-      },
-      {
         "mal_id": 1535,
         "title": "Death Note"
       }
@@ -76537,8 +77980,21 @@
         "title": "Shiguang Dailiren"
       },
       {
-        "mal_id": 57371,
-        "title": "Mingyun Quan Tai"
+        "mal_id": 36649,
+        "title": "Banana Fish"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 44074,
+        "title": "Shiguang Dailiren"
+      },
+      {
+        "mal_id": 11981,
+        "title": "Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari"
       }
     ],
     "votes": 1
@@ -76563,73 +78019,8 @@
         "title": "Shiguang Dailiren"
       },
       {
-        "mal_id": 32182,
-        "title": "Mob Psycho 100"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 44074,
-        "title": "Shiguang Dailiren"
-      },
-      {
-        "mal_id": 11981,
-        "title": "Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 44074,
-        "title": "Shiguang Dailiren"
-      },
-      {
-        "mal_id": 35507,
-        "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 44074,
-        "title": "Shiguang Dailiren"
-      },
-      {
         "mal_id": 41120,
         "title": "Fugou Keiji: Balance:Unlimited"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 44074,
-        "title": "Shiguang Dailiren"
-      },
-      {
-        "mal_id": 53411,
-        "title": "Buddy Daddies"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 44074,
-        "title": "Shiguang Dailiren"
-      },
-      {
-        "mal_id": 53149,
-        "title": "Oemojisangjuui"
       }
     ],
     "votes": 1
@@ -76654,8 +78045,8 @@
         "title": "Shiguang Dailiren"
       },
       {
-        "mal_id": 35044,
-        "title": "Tu Bian Yingxiong Leaf"
+        "mal_id": 55255,
+        "title": "Alien Stage"
       }
     ],
     "votes": 1
@@ -76667,8 +78058,8 @@
         "title": "Shiguang Dailiren"
       },
       {
-        "mal_id": 50439,
-        "title": "Hei Men"
+        "mal_id": 40748,
+        "title": "Jujutsu Kaisen"
       }
     ],
     "votes": 1
@@ -76680,8 +78071,34 @@
         "title": "Shiguang Dailiren"
       },
       {
-        "mal_id": 56840,
-        "title": "T.P BON"
+        "mal_id": 32182,
+        "title": "Mob Psycho 100"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 44074,
+        "title": "Shiguang Dailiren"
+      },
+      {
+        "mal_id": 57371,
+        "title": "Mingyun Quan Tai"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 44074,
+        "title": "Shiguang Dailiren"
+      },
+      {
+        "mal_id": 56165,
+        "title": "Boukyaku Battery (TV)"
       }
     ],
     "votes": 1
@@ -76706,8 +78123,73 @@
         "title": "Shiguang Dailiren"
       },
       {
-        "mal_id": 56165,
-        "title": "Boukyaku Battery (TV)"
+        "mal_id": 35044,
+        "title": "Tu Bian Yingxiong Leaf"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 44074,
+        "title": "Shiguang Dailiren"
+      },
+      {
+        "mal_id": 53149,
+        "title": "Oemojisangjuui"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 44074,
+        "title": "Shiguang Dailiren"
+      },
+      {
+        "mal_id": 53411,
+        "title": "Buddy Daddies"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 44074,
+        "title": "Shiguang Dailiren"
+      },
+      {
+        "mal_id": 56840,
+        "title": "T.P BON"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 44074,
+        "title": "Shiguang Dailiren"
+      },
+      {
+        "mal_id": 50439,
+        "title": "Hei Men"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 44074,
+        "title": "Shiguang Dailiren"
+      },
+      {
+        "mal_id": 35507,
+        "title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
       }
     ],
     "votes": 1
@@ -83102,8 +84584,8 @@
         "title": "Spy x Family"
       },
       {
-        "mal_id": 71,
-        "title": "Full Metal Panic!"
+        "mal_id": 35240,
+        "title": "Princess Principal"
       }
     ],
     "votes": 8
@@ -83115,8 +84597,8 @@
         "title": "Spy x Family"
       },
       {
-        "mal_id": 35240,
-        "title": "Princess Principal"
+        "mal_id": 71,
+        "title": "Full Metal Panic!"
       }
     ],
     "votes": 8
@@ -83167,19 +84649,6 @@
         "title": "Spy x Family"
       },
       {
-        "mal_id": 10162,
-        "title": "Usagi Drop"
-      }
-    ],
-    "votes": 4
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 50265,
-        "title": "Spy x Family"
-      },
-      {
         "mal_id": 41120,
         "title": "Fugou Keiji: Balance:Unlimited"
       }
@@ -83193,8 +84662,21 @@
         "title": "Spy x Family"
       },
       {
-        "mal_id": 40716,
-        "title": "Kakushigoto"
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      }
+    ],
+    "votes": 4
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 50265,
+        "title": "Spy x Family"
+      },
+      {
+        "mal_id": 35222,
+        "title": "Gakuen Babysitters"
       }
     ],
     "votes": 3
@@ -83208,19 +84690,6 @@
       {
         "mal_id": 33255,
         "title": "Saiki Kusuo no Ψ-nan"
-      }
-    ],
-    "votes": 3
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 50265,
-        "title": "Spy x Family"
-      },
-      {
-        "mal_id": 51464,
-        "title": "4-nin wa Sorezore Uso wo Tsuku"
       }
     ],
     "votes": 3
@@ -83258,8 +84727,21 @@
         "title": "Spy x Family"
       },
       {
-        "mal_id": 35222,
-        "title": "Gakuen Babysitters"
+        "mal_id": 51464,
+        "title": "4-nin wa Sorezore Uso wo Tsuku"
+      }
+    ],
+    "votes": 3
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 50265,
+        "title": "Spy x Family"
+      },
+      {
+        "mal_id": 40716,
+        "title": "Kakushigoto"
       }
     ],
     "votes": 3
@@ -83284,73 +84766,8 @@
         "title": "Spy x Family"
       },
       {
-        "mal_id": 39324,
-        "title": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai."
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 50265,
-        "title": "Spy x Family"
-      },
-      {
-        "mal_id": 43692,
-        "title": "Gokushufudou"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 50265,
-        "title": "Spy x Family"
-      },
-      {
-        "mal_id": 1,
-        "title": "Cowboy Bebop"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 50265,
-        "title": "Spy x Family"
-      },
-      {
-        "mal_id": 32828,
-        "title": "Amaama to Inazuma"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 50265,
-        "title": "Spy x Family"
-      },
-      {
         "mal_id": 22789,
         "title": "Barakamon"
-      }
-    ],
-    "votes": 2
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 50265,
-        "title": "Spy x Family"
-      },
-      {
-        "mal_id": 49909,
-        "title": "Kotarou wa Hitorigurashi"
       }
     ],
     "votes": 2
@@ -83375,8 +84792,73 @@
         "title": "Spy x Family"
       },
       {
-        "mal_id": 40839,
-        "title": "Kanojo, Okarishimasu"
+        "mal_id": 32828,
+        "title": "Amaama to Inazuma"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 50265,
+        "title": "Spy x Family"
+      },
+      {
+        "mal_id": 43692,
+        "title": "Gokushufudou"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 50265,
+        "title": "Spy x Family"
+      },
+      {
+        "mal_id": 39324,
+        "title": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai."
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 50265,
+        "title": "Spy x Family"
+      },
+      {
+        "mal_id": 1,
+        "title": "Cowboy Bebop"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 50265,
+        "title": "Spy x Family"
+      },
+      {
+        "mal_id": 49909,
+        "title": "Kotarou wa Hitorigurashi"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 50265,
+        "title": "Spy x Family"
+      },
+      {
+        "mal_id": 15379,
+        "title": "Kotoura-san"
       }
     ],
     "votes": 1
@@ -83388,21 +84870,8 @@
         "title": "Spy x Family"
       },
       {
-        "mal_id": 33352,
-        "title": "Violet Evergarden"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 50265,
-        "title": "Spy x Family"
-      },
-      {
-        "mal_id": 40908,
-        "title": "Kemono Jihen"
+        "mal_id": 11061,
+        "title": "Hunter x Hunter (2011)"
       }
     ],
     "votes": 1
@@ -83440,8 +84909,8 @@
         "title": "Spy x Family"
       },
       {
-        "mal_id": 58985,
-        "title": "0-saiji Start Dash Monogatari"
+        "mal_id": 28825,
+        "title": "Himouto! Umaru-chan"
       }
     ],
     "votes": 1
@@ -83466,73 +84935,8 @@
         "title": "Spy x Family"
       },
       {
-        "mal_id": 15379,
-        "title": "Kotoura-san"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 50265,
-        "title": "Spy x Family"
-      },
-      {
-        "mal_id": 28825,
-        "title": "Himouto! Umaru-chan"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 50265,
-        "title": "Spy x Family"
-      },
-      {
-        "mal_id": 11061,
-        "title": "Hunter x Hunter (2011)"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 50265,
-        "title": "Spy x Family"
-      },
-      {
-        "mal_id": 46095,
-        "title": "Vivy: Fluorite Eye's Song"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 50265,
-        "title": "Spy x Family"
-      },
-      {
-        "mal_id": 48413,
-        "title": "Hataraku Maou-sama!!"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 50265,
-        "title": "Spy x Family"
-      },
-      {
-        "mal_id": 37221,
-        "title": "Release the Spyce"
+        "mal_id": 40839,
+        "title": "Kanojo, Okarishimasu"
       }
     ],
     "votes": 1
@@ -83557,21 +84961,8 @@
         "title": "Spy x Family"
       },
       {
-        "mal_id": 44516,
-        "title": "Koroshi Ai"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 50265,
-        "title": "Spy x Family"
-      },
-      {
-        "mal_id": 50709,
-        "title": "Lycoris Recoil"
+        "mal_id": 102,
+        "title": "Aishiteruze Baby★★"
       }
     ],
     "votes": 1
@@ -83609,6 +85000,45 @@
         "title": "Spy x Family"
       },
       {
+        "mal_id": 33352,
+        "title": "Violet Evergarden"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 50265,
+        "title": "Spy x Family"
+      },
+      {
+        "mal_id": 40908,
+        "title": "Kemono Jihen"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 50265,
+        "title": "Spy x Family"
+      },
+      {
+        "mal_id": 58985,
+        "title": "0-saiji Start Dash Monogatari"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 50265,
+        "title": "Spy x Family"
+      },
+      {
         "mal_id": 1486,
         "title": "Kodomo no Omocha (TV)"
       }
@@ -83622,8 +85052,8 @@
         "title": "Spy x Family"
       },
       {
-        "mal_id": 102,
-        "title": "Aishiteruze Baby★★"
+        "mal_id": 50709,
+        "title": "Lycoris Recoil"
       }
     ],
     "votes": 1
@@ -83635,8 +85065,8 @@
         "title": "Spy x Family"
       },
       {
-        "mal_id": 41389,
-        "title": "Tonikaku Kawaii"
+        "mal_id": 46095,
+        "title": "Vivy: Fluorite Eye's Song"
       }
     ],
     "votes": 1
@@ -83648,8 +85078,8 @@
         "title": "Spy x Family"
       },
       {
-        "mal_id": 19,
-        "title": "Monster"
+        "mal_id": 15809,
+        "title": "Hataraku Maou-sama!"
       }
     ],
     "votes": 1
@@ -83661,8 +85091,8 @@
         "title": "Spy x Family"
       },
       {
-        "mal_id": 52494,
-        "title": "Bao Mu"
+        "mal_id": 37221,
+        "title": "Release the Spyce"
       }
     ],
     "votes": 1
@@ -83674,8 +85104,34 @@
         "title": "Spy x Family"
       },
       {
-        "mal_id": 60781,
-        "title": "Alma-chan wa Kazoku ni Naritai"
+        "mal_id": 48413,
+        "title": "Hataraku Maou-sama!!"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 50265,
+        "title": "Spy x Family"
+      },
+      {
+        "mal_id": 44516,
+        "title": "Koroshi Ai"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 50265,
+        "title": "Spy x Family"
+      },
+      {
+        "mal_id": 42307,
+        "title": "Subarashiki Kono Sekai The Animation"
       }
     ],
     "votes": 1
@@ -83700,86 +85156,21 @@
         "title": "Spy x Family"
       },
       {
+        "mal_id": 60781,
+        "title": "Alma-chan wa Kazoku ni Naritai"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 50265,
+        "title": "Spy x Family"
+      },
+      {
         "mal_id": 55887,
         "title": "Kekkon suru tte, Hontou desu ka"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 50265,
-        "title": "Spy x Family"
-      },
-      {
-        "mal_id": 3448,
-        "title": "Mad★Bull 34"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 50265,
-        "title": "Spy x Family"
-      },
-      {
-        "mal_id": 35889,
-        "title": "Hakata Tonkotsu Ramens"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 50265,
-        "title": "Spy x Family"
-      },
-      {
-        "mal_id": 27947,
-        "title": "Lupin III (2015)"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 50265,
-        "title": "Spy x Family"
-      },
-      {
-        "mal_id": 59484,
-        "title": "Kikaijikake no Marie"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 50265,
-        "title": "Spy x Family"
-      },
-      {
-        "mal_id": 431,
-        "title": "Howl no Ugoku Shiro"
-      }
-    ],
-    "votes": 1
-  },
-  {
-    "entry": [
-      {
-        "mal_id": 50265,
-        "title": "Spy x Family"
-      },
-      {
-        "mal_id": 52969,
-        "title": "Jitsu wa Ore, Saikyou deshita?"
       }
     ],
     "votes": 1
@@ -83817,8 +85208,8 @@
         "title": "Spy x Family"
       },
       {
-        "mal_id": 42307,
-        "title": "Subarashiki Kono Sekai The Animation"
+        "mal_id": 59484,
+        "title": "Kikaijikake no Marie"
       }
     ],
     "votes": 1
@@ -83830,8 +85221,8 @@
         "title": "Spy x Family"
       },
       {
-        "mal_id": 55153,
-        "title": "Yuzuki-san Chi no Yonkyoudai."
+        "mal_id": 19,
+        "title": "Monster"
       }
     ],
     "votes": 1
@@ -83843,8 +85234,8 @@
         "title": "Spy x Family"
       },
       {
-        "mal_id": 31646,
-        "title": "3-gatsu no Lion"
+        "mal_id": 3448,
+        "title": "Mad★Bull 34"
       }
     ],
     "votes": 1
@@ -83856,8 +85247,8 @@
         "title": "Spy x Family"
       },
       {
-        "mal_id": 37991,
-        "title": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze"
+        "mal_id": 52494,
+        "title": "Bao Mu"
       }
     ],
     "votes": 1
@@ -83869,8 +85260,8 @@
         "title": "Spy x Family"
       },
       {
-        "mal_id": 2251,
-        "title": "Baccano!"
+        "mal_id": 52969,
+        "title": "Jitsu wa Ore, Saikyou deshita?"
       }
     ],
     "votes": 1
@@ -83882,8 +85273,8 @@
         "title": "Spy x Family"
       },
       {
-        "mal_id": 60260,
-        "title": "Hotel Inhumans"
+        "mal_id": 431,
+        "title": "Howl no Ugoku Shiro"
       }
     ],
     "votes": 1
@@ -83921,8 +85312,112 @@
         "title": "Spy x Family"
       },
       {
+        "mal_id": 35889,
+        "title": "Hakata Tonkotsu Ramens"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 50265,
+        "title": "Spy x Family"
+      },
+      {
+        "mal_id": 55153,
+        "title": "Yuzuki-san Chi no Yonkyoudai."
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 50265,
+        "title": "Spy x Family"
+      },
+      {
+        "mal_id": 59047,
+        "title": "Tamon-kun Ima Docchi!?"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 50265,
+        "title": "Spy x Family"
+      },
+      {
+        "mal_id": 31646,
+        "title": "3-gatsu no Lion"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 50265,
+        "title": "Spy x Family"
+      },
+      {
+        "mal_id": 2251,
+        "title": "Baccano!"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 50265,
+        "title": "Spy x Family"
+      },
+      {
+        "mal_id": 60260,
+        "title": "Hotel Inhumans"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 50265,
+        "title": "Spy x Family"
+      },
+      {
+        "mal_id": 27947,
+        "title": "Lupin III (2015)"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 50265,
+        "title": "Spy x Family"
+      },
+      {
         "mal_id": 53865,
         "title": "Yozakura-san Chi no Daisakusen"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 50265,
+        "title": "Spy x Family"
+      },
+      {
+        "mal_id": 41389,
+        "title": "Tonikaku Kawaii"
       }
     ],
     "votes": 1
@@ -83947,8 +85442,8 @@
         "title": "Spy x Family"
       },
       {
-        "mal_id": 15809,
-        "title": "Hataraku Maou-sama!"
+        "mal_id": 37991,
+        "title": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze"
       }
     ],
     "votes": 1
@@ -94297,6 +95792,1111 @@
       {
         "mal_id": 58476,
         "title": "Fanpai Chushihua"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 22789,
+        "title": "Barakamon"
+      }
+    ],
+    "votes": 40
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 32828,
+        "title": "Amaama to Inazuma"
+      }
+    ],
+    "votes": 26
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 12355,
+        "title": "Ookami Kodomo no Ame to Yuki"
+      }
+    ],
+    "votes": 18
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 11179,
+        "title": "Papa no Iukoto wo Kikinasai!"
+      }
+    ],
+    "votes": 18
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 102,
+        "title": "Aishiteruze Baby★★"
+      }
+    ],
+    "votes": 15
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 4181,
+        "title": "Clannad: After Story"
+      }
+    ],
+    "votes": 12
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 40716,
+        "title": "Kakushigoto"
+      }
+    ],
+    "votes": 12
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 32673,
+        "title": "Udon no Kuni no Kiniro Kemari"
+      }
+    ],
+    "votes": 9
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 21327,
+        "title": "Isshuukan Friends."
+      }
+    ],
+    "votes": 8
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 40938,
+        "title": "Hige wo Soru. Soshite Joshikousei wo Hirou."
+      }
+    ],
+    "votes": 6
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 9938,
+        "title": "Ikoku Meiro no Croisée The Animation"
+      }
+    ],
+    "votes": 6
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 39324,
+        "title": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai."
+      }
+    ],
+    "votes": 6
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 35222,
+        "title": "Gakuen Babysitters"
+      }
+    ],
+    "votes": 5
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 36296,
+        "title": "Hinamatsuri"
+      }
+    ],
+    "votes": 5
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 39575,
+        "title": "Somali to Mori no Kamisama"
+      }
+    ],
+    "votes": 5
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 1485,
+        "title": "Akachan to Boku"
+      }
+    ],
+    "votes": 4
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 50265,
+        "title": "Spy x Family"
+      }
+    ],
+    "votes": 4
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 3358,
+        "title": "Kure-nai"
+      }
+    ],
+    "votes": 4
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 8426,
+        "title": "Hourou Musuko"
+      }
+    ],
+    "votes": 3
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 38145,
+        "title": "Doukyonin wa Hiza, Tokidoki, Atama no Ue."
+      }
+    ],
+    "votes": 3
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 49776,
+        "title": "Kumichou Musume to Sewagakari"
+      }
+    ],
+    "votes": 3
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 457,
+        "title": "Mushishi"
+      }
+    ],
+    "votes": 3
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 634,
+        "title": "Koi Kaze"
+      }
+    ],
+    "votes": 3
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 6045,
+        "title": "Kimi ni Todoke"
+      }
+    ],
+    "votes": 3
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 48779,
+        "title": "Deaimon"
+      }
+    ],
+    "votes": 3
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 9989,
+        "title": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai."
+      }
+    ],
+    "votes": 3
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 32175,
+        "title": "Shounen Maid"
+      }
+    ],
+    "votes": 3
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 13585,
+        "title": "Natsuyuki Rendezvous"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 2167,
+        "title": "Clannad"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 4087,
+        "title": "Michiko to Hatchin"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 5678,
+        "title": "Kobato."
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 9204,
+        "title": "Omae Umasou da na"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 12431,
+        "title": "Uchuu Kyoudai"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 4081,
+        "title": "Natsume Yuujinchou"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 10408,
+        "title": "Hotarubi no Mori e"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 28735,
+        "title": "Shouwa Genroku Rakugo Shinjuu"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 31646,
+        "title": "3-gatsu no Lion"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 759,
+        "title": "Tokyo Godfathers"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 10800,
+        "title": "Chihayafuru"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 49909,
+        "title": "Kotarou wa Hitorigurashi"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 6211,
+        "title": "Tokyo Magnitude 8.0"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 35851,
+        "title": "Sayonara no Asa ni Yakusoku no Hana wo Kazarou"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 59,
+        "title": "Chobits"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 10460,
+        "title": "Kimi to Boku."
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 477,
+        "title": "Aria the Animation"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 17549,
+        "title": "Non Non Biyori"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 1827,
+        "title": "Seirei no Moribito"
+      }
+    ],
+    "votes": 2
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 33241,
+        "title": "Honobono Log"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 30015,
+        "title": "ReLIFE"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 1695,
+        "title": "Les Misérables: Shoujo Cosette"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 35838,
+        "title": "Shoujo Shuumatsu Ryokou"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 6574,
+        "title": "Hanamaru Youchien"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 1852,
+        "title": "Hidamari Sketch"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 35860,
+        "title": "Karakai Jouzu no Takagi-san"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 58788,
+        "title": "Ikoku Nikki"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 53411,
+        "title": "Buddy Daddies"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 28805,
+        "title": "Bakemono no Ko"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 1210,
+        "title": "NHK ni Youkoso!"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 33206,
+        "title": "Kobayashi-san Chi no Maid Dragon"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 34984,
+        "title": "Koi wa Ameagari no You ni"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 35062,
+        "title": "Mahoutsukai no Yome"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 34350,
+        "title": "Alice to Zouroku"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 33502,
+        "title": "Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 10165,
+        "title": "Nichijou"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 23623,
+        "title": "Non Non Biyori Repeat"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 145,
+        "title": "Kareshi Kanojo no Jijou"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 2942,
+        "title": "Sketchbook: Full Color's"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 101,
+        "title": "Air"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 344,
+        "title": "Futatsu no Spica"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 6024,
+        "title": "Chi's Sweet Home: Atarashii Ouchi"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 1142,
+        "title": "Hachimitsu to Clover II"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 2403,
+        "title": "Kodomo no Jikan (TV)"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 3167,
+        "title": "Eve no Jikan"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 8769,
+        "title": "Ore no Imouto ga Konnani Kawaii Wake ga Nai"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 710,
+        "title": "Rec"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 10721,
+        "title": "Mawaru Penguindrum"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 387,
+        "title": "Haibane Renmei"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 13759,
+        "title": "Sakura-sou no Pet na Kanojo"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 12531,
+        "title": "Sakamichi no Apollon"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 26349,
+        "title": "Danna ga Nani wo Itteiru ka Wakaranai Ken"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 10232,
+        "title": "Tamayura: Hitotose"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 5300,
+        "title": "Zoku Natsume Yuujinchou"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 935,
+        "title": "Witchblade"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 14227,
+        "title": "Tonari no Kaibutsu-kun"
+      }
+    ],
+    "votes": 1
+  },
+  {
+    "entry": [
+      {
+        "mal_id": 10162,
+        "title": "Usagi Drop"
+      },
+      {
+        "mal_id": 32093,
+        "title": "Tanaka-kun wa Itsumo Kedaruge"
       }
     ],
     "votes": 1

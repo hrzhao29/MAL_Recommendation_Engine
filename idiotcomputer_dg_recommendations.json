@@ -1,12 +1,5 @@
 [
   {
-    "anime_id": 245,
-    "title": "Great Teacher Onizuka",
-    "predicted_score": 10,
-    "confidence": 0.1638452168160008,
-    "num_raters": 5
-  },
-  {
     "anime_id": 42984,
     "title": "Gotcha!",
     "predicted_score": 10,
@@ -21,207 +14,11 @@
     "num_raters": 3
   },
   {
-    "anime_id": 34096,
-    "title": "Gintama.",
-    "predicted_score": 10,
-    "confidence": 0.10198202963610527,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 39486,
-    "title": "Gintama: The Final",
-    "predicted_score": 10,
-    "confidence": 0.10198202963610527,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 28977,
-    "title": "Gintama°",
-    "predicted_score": 10,
-    "confidence": 0.10198202963610527,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 10030,
-    "title": "Bakuman. 2nd Season",
-    "predicted_score": 10,
-    "confidence": 0.08952189014367763,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 10800,
-    "title": "Chihayafuru",
-    "predicted_score": 10,
-    "confidence": 0.08857113085968592,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 37379,
-    "title": "Chihayafuru 3",
-    "predicted_score": 10,
-    "confidence": 0.08857113085968592,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 35180,
-    "title": "3-gatsu no Lion 2nd Season",
-    "predicted_score": 9.971669476146351,
-    "confidence": 0.16441498119962433,
-    "num_raters": 5
-  },
-  {
     "anime_id": 40416,
     "title": "Date A Bullet: Dead or Bullet",
     "predicted_score": 9.961551953192208,
     "confidence": 0.09300378523427835,
     "num_raters": 3
-  },
-  {
-    "anime_id": 6594,
-    "title": "Katanagatari",
-    "predicted_score": 9.954318761230661,
-    "confidence": 0.10182563114020764,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 11061,
-    "title": "Hunter x Hunter (2011)",
-    "predicted_score": 9.953752635523875,
-    "confidence": 0.359058962189197,
-    "num_raters": 17
-  },
-  {
-    "anime_id": 32935,
-    "title": "Haikyuu!! Karasuno Koukou vs. Shiratorizawa Gakuen Koukou",
-    "predicted_score": 9.911682670776013,
-    "confidence": 0.3455281747622316,
-    "num_raters": 11
-  },
-  {
-    "anime_id": 60022,
-    "title": "One Piece Fan Letter",
-    "predicted_score": 9.887525806978651,
-    "confidence": 0.341802182352067,
-    "num_raters": 9
-  },
-  {
-    "anime_id": 57864,
-    "title": "Monogatari Series: Off & Monster Season",
-    "predicted_score": 9.874150326532606,
-    "confidence": 0.16403181243905743,
-    "num_raters": 5
-  },
-  {
-    "anime_id": 5114,
-    "title": "Fullmetal Alchemist: Brotherhood",
-    "predicted_score": 9.828271076885148,
-    "confidence": 0.35824546885702213,
-    "num_raters": 14
-  },
-  {
-    "anime_id": 1,
-    "title": "Cowboy Bebop",
-    "predicted_score": 9.821011991354775,
-    "confidence": 0.3682951246150118,
-    "num_raters": 14
-  },
-  {
-    "anime_id": 32,
-    "title": "Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni",
-    "predicted_score": 9.807364119983877,
-    "confidence": 0.3814691646216794,
-    "num_raters": 11
-  },
-  {
-    "anime_id": 7674,
-    "title": "Bakuman.",
-    "predicted_score": 9.797228133108646,
-    "confidence": 0.08952189014367763,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 9969,
-    "title": "Gintama'",
-    "predicted_score": 9.775589635104488,
-    "confidence": 0.13205149267721103,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 35247,
-    "title": "Owarimonogatari 2nd Season",
-    "predicted_score": 9.772568194812767,
-    "confidence": 0.20411504304959546,
-    "num_raters": 6
-  },
-  {
-    "anime_id": 58125,
-    "title": "Look Back",
-    "predicted_score": 9.765455521176746,
-    "confidence": 0.3705882135026437,
-    "num_raters": 12
-  },
-  {
-    "anime_id": 5,
-    "title": "Cowboy Bebop: Tengoku no Tobira",
-    "predicted_score": 9.758865277406889,
-    "confidence": 0.18400845249001865,
-    "num_raters": 5
-  },
-  {
-    "anime_id": 31181,
-    "title": "Owarimonogatari",
-    "predicted_score": 9.75668090819572,
-    "confidence": 0.23889205246497153,
-    "num_raters": 7
-  },
-  {
-    "anime_id": 37987,
-    "title": "Violet Evergarden Movie",
-    "predicted_score": 9.754890406237873,
-    "confidence": 0.26713999221444684,
-    "num_raters": 8
-  },
-  {
-    "anime_id": 3786,
-    "title": "Shin Evangelion Movie:||",
-    "predicted_score": 9.742678420728177,
-    "confidence": 0.28320686996663524,
-    "num_raters": 8
-  },
-  {
-    "anime_id": 2001,
-    "title": "Tengen Toppa Gurren Lagann",
-    "predicted_score": 9.730807418713715,
-    "confidence": 0.32378322646998203,
-    "num_raters": 8
-  },
-  {
-    "anime_id": 263,
-    "title": "Hajime no Ippo",
-    "predicted_score": 9.73069343057828,
-    "confidence": 0.1290682074006247,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 57555,
-    "title": "Chainsaw Man Movie: Reze-hen",
-    "predicted_score": 9.719166188060786,
-    "confidence": 0.36162872623177644,
-    "num_raters": 20
-  },
-  {
-    "anime_id": 19,
-    "title": "Monster",
-    "predicted_score": 9.694779664321585,
-    "confidence": 0.2749775616527093,
-    "num_raters": 8
-  },
-  {
-    "anime_id": 53273,
-    "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3",
-    "predicted_score": 9.68621298846674,
-    "confidence": 0.2021015295681086,
-    "num_raters": 6
   },
   {
     "anime_id": 37407,
@@ -231,125 +28,6 @@
     "num_raters": 3
   },
   {
-    "anime_id": 2966,
-    "title": "Ookami to Koushinryou",
-    "predicted_score": 9.655041118307057,
-    "confidence": 0.1985164681320342,
-    "num_raters": 6
-  },
-  {
-    "anime_id": 572,
-    "title": "Kaze no Tani no Nausicaä",
-    "predicted_score": 9.647714866691654,
-    "confidence": 0.1392912176589889,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 37491,
-    "title": "Gintama. Shirogane no Tamashii-hen - Kouhan-sen",
-    "predicted_score": 9.62937302374657,
-    "confidence": 0.10198202963610527,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 6746,
-    "title": "Durarara!!",
-    "predicted_score": 9.609584204134572,
-    "confidence": 0.09602703714205055,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 27831,
-    "title": "Durarara!!x2 Ten",
-    "predicted_score": 9.609584204134572,
-    "confidence": 0.09602703714205055,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 52215,
-    "title": "Chi. Chikyuu no Undou ni Tsuite",
-    "predicted_score": 9.60871211036561,
-    "confidence": 0.36599606457507233,
-    "num_raters": 10
-  },
-  {
-    "anime_id": 777,
-    "title": "Hellsing Ultimate",
-    "predicted_score": 9.544726672160749,
-    "confidence": 0.17574897851076574,
-    "num_raters": 5
-  },
-  {
-    "anime_id": 42941,
-    "title": "Uma Musume: Pretty Derby Season 2",
-    "predicted_score": 9.539832999360142,
-    "confidence": 0.14293431157949507,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 5341,
-    "title": "Ookami to Koushinryou II",
-    "predicted_score": 9.509008085314392,
-    "confidence": 0.1985164681320342,
-    "num_raters": 6
-  },
-  {
-    "anime_id": 918,
-    "title": "Gintama",
-    "predicted_score": 9.5020983262657,
-    "confidence": 0.16682850209258715,
-    "num_raters": 5
-  },
-  {
-    "anime_id": 60489,
-    "title": "Takopii no Genzai",
-    "predicted_score": 9.498083434297879,
-    "confidence": 0.355223004719428,
-    "num_raters": 12
-  },
-  {
-    "anime_id": 61930,
-    "title": "Uma Musume: Cinderella Gray Part 2",
-    "predicted_score": 9.486681613509726,
-    "confidence": 0.11234060968421637,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 164,
-    "title": "Mononoke Hime",
-    "predicted_score": 9.486052687382799,
-    "confidence": 0.3578887337523601,
-    "num_raters": 14
-  },
-  {
-    "anime_id": 199,
-    "title": "Sen to Chihiro no Kamikakushi",
-    "predicted_score": 9.473845017761342,
-    "confidence": 0.34495388182559145,
-    "num_raters": 13
-  },
-  {
-    "anime_id": 12365,
-    "title": "Bakuman. 3rd Season",
-    "predicted_score": 9.472326003803731,
-    "confidence": 0.08952189014367763,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 523,
-    "title": "Tonari no Totoro",
-    "predicted_score": 9.46292491551631,
-    "confidence": 0.19804879372132353,
-    "num_raters": 6
-  },
-  {
-    "anime_id": 28891,
-    "title": "Haikyuu!! Second Season",
-    "predicted_score": 9.442941651210889,
-    "confidence": 0.347534475510267,
-    "num_raters": 12
-  },
-  {
     "anime_id": 182,
     "title": "Tenkuu no Escaflowne",
     "predicted_score": 9.432948553278122,
@@ -357,129 +35,10 @@
     "num_raters": 3
   },
   {
-    "anime_id": 4181,
-    "title": "Clannad: After Story",
-    "predicted_score": 9.426538460409564,
-    "confidence": 0.2637624075131574,
-    "num_raters": 8
-  },
-  {
-    "anime_id": 2246,
-    "title": "Mononoke",
-    "predicted_score": 9.421676778611468,
-    "confidence": 0.1323954144707443,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 35838,
-    "title": "Shoujo Shuumatsu Ryokou",
-    "predicted_score": 9.420894245672109,
-    "confidence": 0.2134136573400156,
-    "num_raters": 6
-  },
-  {
-    "anime_id": 31933,
-    "title": "JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai",
-    "predicted_score": 9.417540495058349,
-    "confidence": 0.34514127654731425,
-    "num_raters": 11
-  },
-  {
-    "anime_id": 37521,
-    "title": "Vinland Saga",
-    "predicted_score": 9.408248695373295,
-    "confidence": 0.36647550626740993,
-    "num_raters": 19
-  },
-  {
-    "anime_id": 43,
-    "title": "Koukaku Kidoutai",
-    "predicted_score": 9.40298982641832,
-    "confidence": 0.2088620415689879,
-    "num_raters": 6
-  },
-  {
-    "anime_id": 47,
-    "title": "Akira",
-    "predicted_score": 9.388144615446757,
-    "confidence": 0.29142326944434677,
-    "num_raters": 8
-  },
-  {
-    "anime_id": 60098,
-    "title": "Boku no Hero Academia: Final Season",
-    "predicted_score": 9.381640983131438,
-    "confidence": 0.35018222232793766,
-    "num_raters": 11
-  },
-  {
     "anime_id": 21995,
     "title": "Ao Haru Ride",
     "predicted_score": 9.379227728266525,
     "confidence": 0.08806477683636924,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 543,
-    "title": "Vampire Hunter D (2000)",
-    "predicted_score": 9.378610141890901,
-    "confidence": 0.17373502105912014,
-    "num_raters": 5
-  },
-  {
-    "anime_id": 513,
-    "title": "Tenkuu no Shiro Laputa",
-    "predicted_score": 9.377550329792639,
-    "confidence": 0.16828117959930164,
-    "num_raters": 5
-  },
-  {
-    "anime_id": 33,
-    "title": "Kenpuu Denki Berserk",
-    "predicted_score": 9.375631700950299,
-    "confidence": 0.13969816954393438,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 339,
-    "title": "Serial Experiments Lain",
-    "predicted_score": 9.370415237581824,
-    "confidence": 0.24665675847891672,
-    "num_raters": 7
-  },
-  {
-    "anime_id": 23273,
-    "title": "Shigatsu wa Kimi no Uso",
-    "predicted_score": 9.369154731568779,
-    "confidence": 0.34559445807909756,
-    "num_raters": 16
-  },
-  {
-    "anime_id": 1535,
-    "title": "Death Note",
-    "predicted_score": 9.355140932886158,
-    "confidence": 0.3537071360936873,
-    "num_raters": 19
-  },
-  {
-    "anime_id": 30,
-    "title": "Shinseiki Evangelion",
-    "predicted_score": 9.351192060308406,
-    "confidence": 0.38019168791887653,
-    "num_raters": 16
-  },
-  {
-    "anime_id": 37991,
-    "title": "JoJo no Kimyou na Bouken Part 5: Ougon no Kaze",
-    "predicted_score": 9.348548562530532,
-    "confidence": 0.3497617906701088,
-    "num_raters": 10
-  },
-  {
-    "anime_id": 41361,
-    "title": "Eiga Daisuki Pompo-san",
-    "predicted_score": 9.34225347385928,
-    "confidence": 0.10905739111527506,
     "num_raters": 3
   },
   {
@@ -490,144 +49,11 @@
     "num_raters": 7
   },
   {
-    "anime_id": 35557,
-    "title": "Houseki no Kuni",
-    "predicted_score": 9.3370369744603,
-    "confidence": 0.1611299458690457,
-    "num_raters": 5
-  },
-  {
     "anime_id": 24655,
     "title": "Date A Live Movie: Mayuri Judgment",
     "predicted_score": 9.336075201814538,
     "confidence": 0.09300378523427835,
     "num_raters": 3
-  },
-  {
-    "anime_id": 40834,
-    "title": "Ousama Ranking",
-    "predicted_score": 9.329928541387046,
-    "confidence": 0.3826116820773814,
-    "num_raters": 10
-  },
-  {
-    "anime_id": 3784,
-    "title": "Evangelion Movie 2: Ha",
-    "predicted_score": 9.32706883246926,
-    "confidence": 0.30785842457439194,
-    "num_raters": 9
-  },
-  {
-    "anime_id": 61903,
-    "title": "Kaguya-sama wa Kokurasetai: Otona e no Kaidan",
-    "predicted_score": 9.326187080459878,
-    "confidence": 0.3393728704777039,
-    "num_raters": 9
-  },
-  {
-    "anime_id": 48661,
-    "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean",
-    "predicted_score": 9.324346429665212,
-    "confidence": 0.27746025138228886,
-    "num_raters": 8
-  },
-  {
-    "anime_id": 35851,
-    "title": "Sayonara no Asa ni Yakusoku no Hana wo Kazarou",
-    "predicted_score": 9.310659169087652,
-    "confidence": 0.10537236129745255,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 23199,
-    "title": "Durarara!!x2 Shou",
-    "predicted_score": 9.296448821267091,
-    "confidence": 0.09602703714205055,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 6045,
-    "title": "Kimi ni Todoke",
-    "predicted_score": 9.28995930737239,
-    "confidence": 0.13587219985408003,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 42938,
-    "title": "Fruits Basket: The Final",
-    "predicted_score": 9.262991158964441,
-    "confidence": 0.16425254896984093,
-    "num_raters": 5
-  },
-  {
-    "anime_id": 30654,
-    "title": "Ansatsu Kyoushitsu 2nd Season",
-    "predicted_score": 9.247049933742062,
-    "confidence": 0.35348801696417975,
-    "num_raters": 14
-  },
-  {
-    "anime_id": 15417,
-    "title": "Gintama': Enchousen",
-    "predicted_score": 9.243232714671125,
-    "confidence": 0.13205149267721103,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 22135,
-    "title": "Ping Pong the Animation",
-    "predicted_score": 9.240448621229843,
-    "confidence": 0.1944239281996069,
-    "num_raters": 5
-  },
-  {
-    "anime_id": 223,
-    "title": "Dragon Ball",
-    "predicted_score": 9.237772732339593,
-    "confidence": 0.13407702923535605,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 437,
-    "title": "Perfect Blue",
-    "predicted_score": 9.237266391101988,
-    "confidence": 0.2209970557881117,
-    "num_raters": 6
-  },
-  {
-    "anime_id": 19647,
-    "title": "Hajime no Ippo: Rising",
-    "predicted_score": 9.236465182547155,
-    "confidence": 0.10015874633244261,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 42310,
-    "title": "Cyberpunk: Edgerunners",
-    "predicted_score": 9.227157346724695,
-    "confidence": 0.3648883486010641,
-    "num_raters": 16
-  },
-  {
-    "anime_id": 51367,
-    "title": "JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2",
-    "predicted_score": 9.220153267134158,
-    "confidence": 0.27746025138228886,
-    "num_raters": 8
-  },
-  {
-    "anime_id": 31812,
-    "title": "Kuroshitsuji Movie: Book of the Atlantic",
-    "predicted_score": 9.214698251298795,
-    "confidence": 0.10675255033081783,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 36649,
-    "title": "Banana Fish",
-    "predicted_score": 9.21138561676572,
-    "confidence": 0.13954885072276912,
-    "num_raters": 4
   },
   {
     "anime_id": 43439,
@@ -658,193 +84,11 @@
     "num_raters": 9
   },
   {
-    "anime_id": 21329,
-    "title": "Mushishi: Hihamukage",
-    "predicted_score": 9.208350152742371,
-    "confidence": 0.14515876600618297,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 56784,
-    "title": "Bleach: Sennen Kessen-hen - Soukoku-tan",
-    "predicted_score": 9.201259500042761,
-    "confidence": 0.1476234752601666,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 23327,
-    "title": "Space☆Dandy 2nd Season",
-    "predicted_score": 9.200802789506053,
-    "confidence": 0.10035742285410203,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 35737,
-    "title": "Pluto",
-    "predicted_score": 9.179565202019958,
-    "confidence": 0.2859831495656177,
-    "num_raters": 8
-  },
-  {
-    "anime_id": 26055,
-    "title": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders - Egypt-hen",
-    "predicted_score": 9.167678156410595,
-    "confidence": 0.34486812288243945,
-    "num_raters": 15
-  },
-  {
-    "anime_id": 31646,
-    "title": "3-gatsu no Lion",
-    "predicted_score": 9.164692148446596,
-    "confidence": 0.16441498119962433,
-    "num_raters": 5
-  },
-  {
-    "anime_id": 38080,
-    "title": "Kono Oto Tomare!",
-    "predicted_score": 9.164542031325684,
-    "confidence": 0.08785553414743731,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 4901,
-    "title": "Black Lagoon: Roberta's Blood Trail",
-    "predicted_score": 9.155947914687369,
-    "confidence": 0.11038175659080683,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 33050,
-    "title": "Fate/stay night Movie: Heaven's Feel - III. Spring Song",
-    "predicted_score": 9.14992686835744,
-    "confidence": 0.3334075984466692,
-    "num_raters": 10
-  },
-  {
-    "anime_id": 50380,
-    "title": "Paripi Koumei",
-    "predicted_score": 9.14627608633715,
-    "confidence": 0.10400116311773491,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 24687,
-    "title": "Mushishi Zoku Shou: Odoro no Michi",
-    "predicted_score": 9.145337135319542,
-    "confidence": 0.14515876600618297,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 51122,
-    "title": "Ookami to Koushinryou: Merchant Meets the Wise Wolf",
-    "predicted_score": 9.13905552564178,
-    "confidence": 0.2040364617490912,
-    "num_raters": 6
-  },
-  {
-    "anime_id": 37779,
-    "title": "Yakusoku no Neverland",
-    "predicted_score": 9.137136905015804,
-    "confidence": 0.369011387745455,
-    "num_raters": 19
-  },
-  {
-    "anime_id": 40776,
-    "title": "Haikyuu!! To the Top Part 2",
-    "predicted_score": 9.135140675611924,
-    "confidence": 0.3409983439717682,
-    "num_raters": 11
-  },
-  {
-    "anime_id": 38883,
-    "title": "Haikyuu!! To the Top",
-    "predicted_score": 9.134278073000376,
-    "confidence": 0.3523254467608216,
-    "num_raters": 12
-  },
-  {
-    "anime_id": 5681,
-    "title": "Summer Wars",
-    "predicted_score": 9.133871432633423,
-    "confidence": 0.13524776696997912,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 12355,
-    "title": "Ookami Kodomo no Ame to Yuki",
-    "predicted_score": 9.122564215766626,
-    "confidence": 0.2077733935816738,
-    "num_raters": 6
-  },
-  {
-    "anime_id": 53111,
-    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen",
-    "predicted_score": 9.122240768352171,
-    "confidence": 0.2145280567299971,
-    "num_raters": 6
-  },
-  {
-    "anime_id": 2418,
-    "title": "Stranger: Mukou Hadan",
-    "predicted_score": 9.12070050575998,
-    "confidence": 0.174753475567642,
-    "num_raters": 5
-  },
-  {
-    "anime_id": 58883,
-    "title": "Dead Dead Demons Dededede Destruction (ONA)",
-    "predicted_score": 9.12000658095072,
-    "confidence": 0.14079514142544583,
-    "num_raters": 4
-  },
-  {
     "anime_id": 21877,
     "title": "High Score Girl",
     "predicted_score": 9.11755875809723,
     "confidence": 0.0982482240388577,
     "num_raters": 3
-  },
-  {
-    "anime_id": 72,
-    "title": "Full Metal Panic? Fumoffu",
-    "predicted_score": 9.10968410833819,
-    "confidence": 0.10889179225346589,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 59833,
-    "title": "Kono Subarashii Sekai ni Shukufuku wo! 3: Bonus Stage",
-    "predicted_score": 9.103707289952025,
-    "confidence": 0.19469930636321045,
-    "num_raters": 6
-  },
-  {
-    "anime_id": 30276,
-    "title": "One Punch Man",
-    "predicted_score": 9.102658304929584,
-    "confidence": 0.36535348438209003,
-    "num_raters": 24
-  },
-  {
-    "anime_id": 578,
-    "title": "Hotaru no Haka",
-    "predicted_score": 9.09712339098841,
-    "confidence": 0.289609499904558,
-    "num_raters": 8
-  },
-  {
-    "anime_id": 35839,
-    "title": "Sora yori mo Tooi Basho",
-    "predicted_score": 9.091590859505077,
-    "confidence": 0.13457094644827156,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 57181,
-    "title": "Ao no Hako",
-    "predicted_score": 9.086992957339229,
-    "confidence": 0.26759189449953474,
-    "num_raters": 8
   },
   {
     "anime_id": 52196,
@@ -854,185 +98,10 @@
     "num_raters": 4
   },
   {
-    "anime_id": 40716,
-    "title": "Kakushigoto",
-    "predicted_score": 9.07871696792364,
-    "confidence": 0.09664542663005647,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 54789,
-    "title": "Boku no Hero Academia 7th Season",
-    "predicted_score": 9.077634376550009,
-    "confidence": 0.3501941840744301,
-    "num_raters": 11
-  },
-  {
-    "anime_id": 14397,
-    "title": "Chihayafuru 2",
-    "predicted_score": 9.073121576781563,
-    "confidence": 0.08857113085968592,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 2759,
-    "title": "Evangelion Movie 1: Jo",
-    "predicted_score": 9.0727935052316,
-    "confidence": 0.30785842457439194,
-    "num_raters": 9
-  },
-  {
-    "anime_id": 1519,
-    "title": "Black Lagoon: The Second Barrage",
-    "predicted_score": 9.071244544911133,
-    "confidence": 0.1393717185311196,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 27989,
-    "title": "Hibike! Euphonium",
-    "predicted_score": 9.069815805181626,
-    "confidence": 0.11038175659080683,
-    "num_raters": 3
-  },
-  {
     "anime_id": 54790,
     "title": "Undead Girl Murder Farce",
     "predicted_score": 9.06495244842905,
     "confidence": 0.14719784598280602,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 227,
-    "title": "FLCL",
-    "predicted_score": 9.064429283834489,
-    "confidence": 0.26110666204189387,
-    "num_raters": 7
-  },
-  {
-    "anime_id": 41467,
-    "title": "Bleach: Sennen Kessen-hen",
-    "predicted_score": 9.062755137763553,
-    "confidence": 0.21635467540980188,
-    "num_raters": 6
-  },
-  {
-    "anime_id": 49387,
-    "title": "Vinland Saga Season 2",
-    "predicted_score": 9.053305006021702,
-    "confidence": 0.361859145305887,
-    "num_raters": 15
-  },
-  {
-    "anime_id": 38826,
-    "title": "Tenki no Ko",
-    "predicted_score": 9.051665557976166,
-    "confidence": 0.36516101170378806,
-    "num_raters": 12
-  },
-  {
-    "anime_id": 20583,
-    "title": "Haikyuu!!",
-    "predicted_score": 9.049918989514541,
-    "confidence": 0.3714504179465753,
-    "num_raters": 15
-  },
-  {
-    "anime_id": 7711,
-    "title": "Karigurashi no Arrietty",
-    "predicted_score": 9.04227436153764,
-    "confidence": 0.14464184581559378,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 52742,
-    "title": "Haikyuu!! Movie: Gomisuteba no Kessen",
-    "predicted_score": 9.035523811675903,
-    "confidence": 0.2764029061701114,
-    "num_raters": 8
-  },
-  {
-    "anime_id": 33049,
-    "title": "Fate/stay night Movie: Heaven's Feel - II. Lost Butterfly",
-    "predicted_score": 9.03297263866487,
-    "confidence": 0.3334075984466692,
-    "num_raters": 10
-  },
-  {
-    "anime_id": 41025,
-    "title": "Fumetsu no Anata e",
-    "predicted_score": 9.02806426471578,
-    "confidence": 0.35446858011805277,
-    "num_raters": 12
-  },
-  {
-    "anime_id": 6,
-    "title": "Trigun",
-    "predicted_score": 9.01319905307528,
-    "confidence": 0.14044065346464002,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 59828,
-    "title": "Shoushimin Series 2nd Season",
-    "predicted_score": 9.010784890671552,
-    "confidence": 0.09450431573889184,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 35843,
-    "title": "Gintama. Porori-hen",
-    "predicted_score": 9.008018383740085,
-    "confidence": 0.10198202963610527,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 35062,
-    "title": "Mahoutsukai no Yome",
-    "predicted_score": 9.006833773010964,
-    "confidence": 0.23321297667527963,
-    "num_raters": 7
-  },
-  {
-    "anime_id": 58913,
-    "title": "Hikaru ga Shinda Natsu",
-    "predicted_score": 8.997062962376127,
-    "confidence": 0.20614776327352075,
-    "num_raters": 6
-  },
-  {
-    "anime_id": 38993,
-    "title": "Karakai Jouzu no Takagi-san 2",
-    "predicted_score": 8.995957158159605,
-    "confidence": 0.11812367371020245,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 60285,
-    "title": "Sakamoto Days Part 2",
-    "predicted_score": 8.979729071960895,
-    "confidence": 0.13565114782834373,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 11741,
-    "title": "Fate/Zero 2nd Season",
-    "predicted_score": 8.974522943472369,
-    "confidence": 0.34680095059152544,
-    "num_raters": 11
-  },
-  {
-    "anime_id": 1735,
-    "title": "Naruto: Shippuuden",
-    "predicted_score": 8.965520852326588,
-    "confidence": 0.3527781242598779,
-    "num_raters": 15
-  },
-  {
-    "anime_id": 53998,
-    "title": "Bleach: Sennen Kessen-hen - Ketsubetsu-tan",
-    "predicted_score": 8.961583818555336,
-    "confidence": 0.1476234752601666,
     "num_raters": 4
   },
   {
@@ -1043,34 +112,6 @@
     "num_raters": 3
   },
   {
-    "anime_id": 813,
-    "title": "Dragon Ball Z",
-    "predicted_score": 8.95301081934706,
-    "confidence": 0.2792131481756637,
-    "num_raters": 8
-  },
-  {
-    "anime_id": 934,
-    "title": "Higurashi no Naku Koro ni",
-    "predicted_score": 8.947975163808756,
-    "confidence": 0.19844798366948663,
-    "num_raters": 5
-  },
-  {
-    "anime_id": 16706,
-    "title": "Kami nomi zo Shiru Sekai: Megami-hen",
-    "predicted_score": 8.943949718527216,
-    "confidence": 0.08882857829418904,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 53199,
-    "title": "Kidou Senshi Gundam: Suisei no Majo Season 2",
-    "predicted_score": 8.940350563516954,
-    "confidence": 0.14464184581559378,
-    "num_raters": 4
-  },
-  {
     "anime_id": 32979,
     "title": "Flip Flappers",
     "predicted_score": 8.93761078180784,
@@ -1078,115 +119,10 @@
     "num_raters": 3
   },
   {
-    "anime_id": 22961,
-    "title": "Date A Live II: Kurumi Star Festival",
-    "predicted_score": 8.935912343279677,
-    "confidence": 0.09398739554830264,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 28701,
-    "title": "Fate/stay night: Unlimited Blade Works 2nd Season",
-    "predicted_score": 8.934412368310706,
-    "confidence": 0.3464545056279182,
-    "num_raters": 11
-  },
-  {
-    "anime_id": 36838,
-    "title": "Gintama. Shirogane no Tamashii-hen",
-    "predicted_score": 8.929188757690323,
-    "confidence": 0.10198202963610527,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 54898,
-    "title": "Bungou Stray Dogs 5th Season",
-    "predicted_score": 8.927217938433108,
-    "confidence": 0.1342270246547383,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 56063,
-    "title": "NieR:Automata Ver1.1a Part 2",
-    "predicted_score": 8.922617580137485,
-    "confidence": 0.17824954708537208,
-    "num_raters": 5
-  },
-  {
-    "anime_id": 5258,
-    "title": "Hajime no Ippo: New Challenger",
-    "predicted_score": 8.91889833330144,
-    "confidence": 0.13417663285958578,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 59845,
-    "title": "Kaoru Hana wa Rin to Saku",
-    "predicted_score": 8.91783984735349,
-    "confidence": 0.37126984039753214,
-    "num_raters": 12
-  },
-  {
-    "anime_id": 49918,
-    "title": "Boku no Hero Academia 6th Season",
-    "predicted_score": 8.914959309764475,
-    "confidence": 0.34728439390844423,
-    "num_raters": 14
-  },
-  {
-    "anime_id": 889,
-    "title": "Black Lagoon",
-    "predicted_score": 8.913428033170343,
-    "confidence": 0.17465487733808877,
-    "num_raters": 5
-  },
-  {
-    "anime_id": 55318,
-    "title": "Medalist",
-    "predicted_score": 8.9088097756917,
-    "confidence": 0.21270859870559092,
-    "num_raters": 6
-  },
-  {
-    "anime_id": 62405,
-    "title": "Fujimoto Tatsuki 17-26",
-    "predicted_score": 8.906024307865072,
-    "confidence": 0.334977225719315,
-    "num_raters": 9
-  },
-  {
-    "anime_id": 2236,
-    "title": "Toki wo Kakeru Shoujo",
-    "predicted_score": 8.904944429104583,
-    "confidence": 0.1831236159153266,
-    "num_raters": 5
-  },
-  {
-    "anime_id": 40417,
-    "title": "Fruits Basket 2nd Season",
-    "predicted_score": 8.903916523720168,
-    "confidence": 0.16425254896984093,
-    "num_raters": 5
-  },
-  {
     "anime_id": 52093,
     "title": "Trigun Stampede",
     "predicted_score": 8.903714246575744,
     "confidence": 0.13204092650993846,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 57592,
-    "title": "Dr. Stone: Science Future",
-    "predicted_score": 8.902271540497797,
-    "confidence": 0.13026445366542436,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 61322,
-    "title": "Dr. Stone: Science Future Part 2",
-    "predicted_score": 8.902271540497797,
-    "confidence": 0.13026445366542436,
     "num_raters": 4
   },
   {
@@ -1197,53 +133,11 @@
     "num_raters": 4
   },
   {
-    "anime_id": 24833,
-    "title": "Ansatsu Kyoushitsu",
-    "predicted_score": 8.901068479205206,
-    "confidence": 0.3508398355131651,
-    "num_raters": 16
-  },
-  {
     "anime_id": 51213,
     "title": "Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu",
     "predicted_score": 8.8961172919243,
     "confidence": 0.1011961746361549,
     "num_raters": 3
-  },
-  {
-    "anime_id": 52168,
-    "title": "Kidou Senshi Gundam: Suisei no Majo - Prologue",
-    "predicted_score": 8.895066246637091,
-    "confidence": 0.1444431692939344,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 22145,
-    "title": "Kuroshitsuji: Book of Circus",
-    "predicted_score": 8.89367644015179,
-    "confidence": 0.1745074029992905,
-    "num_raters": 5
-  },
-  {
-    "anime_id": 39792,
-    "title": "Eizouken ni wa Te wo Dasu na!",
-    "predicted_score": 8.892952625932914,
-    "confidence": 0.2111342249379841,
-    "num_raters": 6
-  },
-  {
-    "anime_id": 55742,
-    "title": "Mahoutsukai no Yome Season 2 Part 2",
-    "predicted_score": 8.892486690098227,
-    "confidence": 0.10455861520505576,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 36098,
-    "title": "Kimi no Suizou wo Tabetai",
-    "predicted_score": 8.891791877564678,
-    "confidence": 0.3607297738150471,
-    "num_raters": 17
   },
   {
     "anime_id": 19703,
@@ -1258,55 +152,6 @@
     "predicted_score": 8.88801109437191,
     "confidence": 0.1160830232790439,
     "num_raters": 3
-  },
-  {
-    "anime_id": 39247,
-    "title": "Kobayashi-san Chi no Maid Dragon S",
-    "predicted_score": 8.886207231263112,
-    "confidence": 0.3421871685716472,
-    "num_raters": 11
-  },
-  {
-    "anime_id": 31043,
-    "title": "Boku dake ga Inai Machi",
-    "predicted_score": 8.884533359910293,
-    "confidence": 0.35026675181886685,
-    "num_raters": 19
-  },
-  {
-    "anime_id": 44931,
-    "title": "Tonikaku Kawaii: SNS",
-    "predicted_score": 8.882205133331608,
-    "confidence": 0.20631978243903804,
-    "num_raters": 6
-  },
-  {
-    "anime_id": 50796,
-    "title": "Kimi wa Houkago Insomnia",
-    "predicted_score": 8.880771793133576,
-    "confidence": 0.1547724161240074,
-    "num_raters": 5
-  },
-  {
-    "anime_id": 38691,
-    "title": "Dr. Stone",
-    "predicted_score": 8.872983771436537,
-    "confidence": 0.34847217880005904,
-    "num_raters": 16
-  },
-  {
-    "anime_id": 39198,
-    "title": "Kanata no Astra",
-    "predicted_score": 8.871222115379009,
-    "confidence": 0.10977706859877068,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 57616,
-    "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season",
-    "predicted_score": 8.868568101464557,
-    "confidence": 0.1965783588637685,
-    "num_raters": 6
   },
   {
     "anime_id": 36106,
@@ -1344,20 +189,6 @@
     "num_raters": 3
   },
   {
-    "anime_id": 73,
-    "title": "Full Metal Panic! The Second Raid",
-    "predicted_score": 8.842576256358136,
-    "confidence": 0.10889179225346589,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 32282,
-    "title": "Shokugeki no Souma: Ni no Sara",
-    "predicted_score": 8.840631979645716,
-    "confidence": 0.3049241760977614,
-    "num_raters": 9
-  },
-  {
     "anime_id": 31376,
     "title": "Flying Witch",
     "predicted_score": 8.838297177403732,
@@ -1365,88 +196,11 @@
     "num_raters": 3
   },
   {
-    "anime_id": 34626,
-    "title": "Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!",
-    "predicted_score": 8.837234309379856,
-    "confidence": 0.23422937249128323,
-    "num_raters": 7
-  },
-  {
-    "anime_id": 18679,
-    "title": "Kill la Kill",
-    "predicted_score": 8.831881956280409,
-    "confidence": 0.3525606873492819,
-    "num_raters": 10
-  },
-  {
-    "anime_id": 35608,
-    "title": "Chuunibyou demo Koi ga Shitai! Movie: Take On Me",
-    "predicted_score": 8.82578502826309,
-    "confidence": 0.12771709885677054,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 49818,
-    "title": "Guimi Zhi Zhu: Xiaochou Pian",
-    "predicted_score": 8.825132490110155,
-    "confidence": 0.14231118126474993,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 9989,
-    "title": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.",
-    "predicted_score": 8.81968451337607,
-    "confidence": 0.3754576247369932,
-    "num_raters": 10
-  },
-  {
-    "anime_id": 4282,
-    "title": "Kara no Kyoukai Movie 5: Mujun Rasen",
-    "predicted_score": 8.810859708818924,
-    "confidence": 0.15099979222279036,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 37095,
-    "title": "Violet Evergarden: Kitto \"Ai\" wo Shiru Hi ga Kuru no Darou",
-    "predicted_score": 8.809800272018764,
-    "confidence": 0.27351368995323394,
-    "num_raters": 8
-  },
-  {
-    "anime_id": 38409,
-    "title": "Cike Wu Liuqi",
-    "predicted_score": 8.804990424200552,
-    "confidence": 0.10035742285410203,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 39741,
-    "title": "Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou",
-    "predicted_score": 8.804614372139234,
-    "confidence": 0.23823053114626475,
-    "num_raters": 7
-  },
-  {
     "anime_id": 48903,
     "title": "Dragon Ball Super: Super Hero",
     "predicted_score": 8.803465534422532,
     "confidence": 0.15556156589754577,
     "num_raters": 4
-  },
-  {
-    "anime_id": 40174,
-    "title": "Zombieland Saga Revenge",
-    "predicted_score": 8.800057169573098,
-    "confidence": 0.10019499062431862,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 48549,
-    "title": "Dr. Stone: New World",
-    "predicted_score": 8.796167676487412,
-    "confidence": 0.29810367123118064,
-    "num_raters": 9
   },
   {
     "anime_id": 97,
@@ -1477,20 +231,6 @@
     "num_raters": 3
   },
   {
-    "anime_id": 55644,
-    "title": "Dr. Stone: New World Part 2",
-    "predicted_score": 8.772922925913468,
-    "confidence": 0.2280493115482564,
-    "num_raters": 7
-  },
-  {
-    "anime_id": 37171,
-    "title": "Asobi Asobase",
-    "predicted_score": 8.771246024274818,
-    "confidence": 0.17676056514466554,
-    "num_raters": 5
-  },
-  {
     "anime_id": 49236,
     "title": "Youjo Senki: Sabaku no Pasta Daisakusen",
     "predicted_score": 8.768751094918317,
@@ -1503,27 +243,6 @@
     "predicted_score": 8.768722816395757,
     "confidence": 0.17778397079744035,
     "num_raters": 5
-  },
-  {
-    "anime_id": 22297,
-    "title": "Fate/stay night: Unlimited Blade Works",
-    "predicted_score": 8.76425766937237,
-    "confidence": 0.338035713353216,
-    "num_raters": 13
-  },
-  {
-    "anime_id": 60543,
-    "title": "Dandadan 2nd Season",
-    "predicted_score": 8.762114671242946,
-    "confidence": 0.35984037048522194,
-    "num_raters": 17
-  },
-  {
-    "anime_id": 25781,
-    "title": "Shingeki no Kyojin: Kuinaki Sentaku",
-    "predicted_score": 8.760141112107544,
-    "confidence": 0.24724144182362248,
-    "num_raters": 7
   },
   {
     "anime_id": 28927,
@@ -1540,67 +259,11 @@
     "num_raters": 5
   },
   {
-    "anime_id": 269,
-    "title": "Bleach",
-    "predicted_score": 8.75212564112726,
-    "confidence": 0.21635467540980188,
-    "num_raters": 6
-  },
-  {
-    "anime_id": 58572,
-    "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season",
-    "predicted_score": 8.751985494351409,
-    "confidence": 0.2652038151613674,
-    "num_raters": 8
-  },
-  {
-    "anime_id": 32902,
-    "title": "Mahoutsukai no Yome: Hoshi Matsu Hito",
-    "predicted_score": 8.7501128936954,
-    "confidence": 0.11458294894176056,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 1943,
-    "title": "Paprika",
-    "predicted_score": 8.747956382709448,
-    "confidence": 0.2267340049662977,
-    "num_raters": 6
-  },
-  {
-    "anime_id": 40052,
-    "title": "Great Pretender",
-    "predicted_score": 8.743722375695425,
-    "confidence": 0.1387663324616892,
-    "num_raters": 4
-  },
-  {
     "anime_id": 1887,
     "title": "Lucky☆Star",
     "predicted_score": 8.737386941211263,
     "confidence": 0.11775823562693838,
     "num_raters": 3
-  },
-  {
-    "anime_id": 16662,
-    "title": "Kaze Tachinu",
-    "predicted_score": 8.736138797111833,
-    "confidence": 0.1087959014666972,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 59636,
-    "title": "Uma Musume: Cinderella Gray",
-    "predicted_score": 8.73584698058748,
-    "confidence": 0.22275081727315202,
-    "num_raters": 6
-  },
-  {
-    "anime_id": 20057,
-    "title": "Space☆Dandy",
-    "predicted_score": 8.734036376470899,
-    "confidence": 0.14044065346464002,
-    "num_raters": 4
   },
   {
     "anime_id": 53446,
@@ -1621,27 +284,6 @@
     "title": "Majo no Tabitabi",
     "predicted_score": 8.715705448600783,
     "confidence": 0.2032896510383165,
-    "num_raters": 6
-  },
-  {
-    "anime_id": 37055,
-    "title": "Youjo Senki Movie",
-    "predicted_score": 8.714730916214712,
-    "confidence": 0.20061240548037915,
-    "num_raters": 6
-  },
-  {
-    "anime_id": 13759,
-    "title": "Sakura-sou no Pet na Kanojo",
-    "predicted_score": 8.714605560203083,
-    "confidence": 0.23068198178999658,
-    "num_raters": 7
-  },
-  {
-    "anime_id": 40815,
-    "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season",
-    "predicted_score": 8.712134801520564,
-    "confidence": 0.20442462513851248,
     "num_raters": 6
   },
   {
@@ -1673,13 +315,6 @@
     "num_raters": 3
   },
   {
-    "anime_id": 37520,
-    "title": "Dororo",
-    "predicted_score": 8.704428718421218,
-    "confidence": 0.3573661090231638,
-    "num_raters": 10
-  },
-  {
     "anime_id": 38753,
     "title": "Araburu Kisetsu no Otome-domo yo.",
     "predicted_score": 8.69990737137547,
@@ -1708,76 +343,6 @@
     "num_raters": 3
   },
   {
-    "anime_id": 14719,
-    "title": "JoJo no Kimyou na Bouken (TV)",
-    "predicted_score": 8.694994114489171,
-    "confidence": 0.3419765029223956,
-    "num_raters": 16
-  },
-  {
-    "anime_id": 20,
-    "title": "Naruto",
-    "predicted_score": 8.68327658981302,
-    "confidence": 0.36832258397662915,
-    "num_raters": 17
-  },
-  {
-    "anime_id": 59027,
-    "title": "Spy x Family Season 3",
-    "predicted_score": 8.682934558231949,
-    "confidence": 0.23720994002067688,
-    "num_raters": 7
-  },
-  {
-    "anime_id": 1889,
-    "title": "Higurashi no Naku Koro ni Kai",
-    "predicted_score": 8.679473248567271,
-    "confidence": 0.11013759029346223,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 28223,
-    "title": "Death Parade",
-    "predicted_score": 8.67821982403274,
-    "confidence": 0.34592263001066387,
-    "num_raters": 11
-  },
-  {
-    "anime_id": 10863,
-    "title": "Steins;Gate: Oukoubakko no Poriomania",
-    "predicted_score": 8.677402981792165,
-    "confidence": 0.09861660595604357,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 40911,
-    "title": "Yuukoku no Moriarty",
-    "predicted_score": 8.671193566701143,
-    "confidence": 0.1342270246547383,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 43325,
-    "title": "Yuukoku no Moriarty Part 2",
-    "predicted_score": 8.671193566701143,
-    "confidence": 0.1342270246547383,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 39468,
-    "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen",
-    "predicted_score": 8.66978644300361,
-    "confidence": 0.23333408620669455,
-    "num_raters": 7
-  },
-  {
-    "anime_id": 38084,
-    "title": "Fate/Grand Order: Zettai Majuu Sensen Babylonia",
-    "predicted_score": 8.66125654901789,
-    "confidence": 0.0997733514001707,
-    "num_raters": 3
-  },
-  {
     "anime_id": 48653,
     "title": "Yoru ni Kakeru",
     "predicted_score": 8.654408327471796,
@@ -1790,34 +355,6 @@
     "predicted_score": 8.653803985459689,
     "confidence": 0.13636813554590294,
     "num_raters": 4
-  },
-  {
-    "anime_id": 3901,
-    "title": "Baccano! Specials",
-    "predicted_score": 8.652504579675876,
-    "confidence": 0.09450431573889184,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 38668,
-    "title": "Dorohedoro",
-    "predicted_score": 8.65172612018312,
-    "confidence": 0.25398384192108403,
-    "num_raters": 7
-  },
-  {
-    "anime_id": 50612,
-    "title": "Dr. Stone: Ryuusui",
-    "predicted_score": 8.647901177351747,
-    "confidence": 0.27998499334636273,
-    "num_raters": 8
-  },
-  {
-    "anime_id": 10087,
-    "title": "Fate/Zero",
-    "predicted_score": 8.646382026881309,
-    "confidence": 0.35227844859912943,
-    "num_raters": 11
   },
   {
     "anime_id": 34240,
@@ -1834,62 +371,6 @@
     "num_raters": 8
   },
   {
-    "anime_id": 11771,
-    "title": "Kuroko no Basket",
-    "predicted_score": 8.637266357492702,
-    "confidence": 0.22386720367047253,
-    "num_raters": 7
-  },
-  {
-    "anime_id": 7054,
-    "title": "Kaichou wa Maid-sama!",
-    "predicted_score": 8.63722078502006,
-    "confidence": 0.12812947627292423,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 18397,
-    "title": "Shingeki no Kyojin OVA",
-    "predicted_score": 8.635417263082362,
-    "confidence": 0.21338240619025875,
-    "num_raters": 6
-  },
-  {
-    "anime_id": 25537,
-    "title": "Fate/stay night Movie: Heaven's Feel - I. Presage Flower",
-    "predicted_score": 8.633041627405891,
-    "confidence": 0.30334870157283594,
-    "num_raters": 9
-  },
-  {
-    "anime_id": 3002,
-    "title": "Gyakkyou Burai Kaiji: Ultimate Survivor",
-    "predicted_score": 8.631816977353216,
-    "confidence": 0.11091656161225237,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 30503,
-    "title": "Noragami Aragoto",
-    "predicted_score": 8.631109924960326,
-    "confidence": 0.3400249495473569,
-    "num_raters": 11
-  },
-  {
-    "anime_id": 57647,
-    "title": "Uma Musume: Pretty Derby - Shin Jidai no Tobira",
-    "predicted_score": 8.625386313895945,
-    "confidence": 0.14455891836149834,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 36999,
-    "title": "Zoku Owarimonogatari",
-    "predicted_score": 8.622771214601988,
-    "confidence": 0.20411504304959546,
-    "num_raters": 6
-  },
-  {
     "anime_id": 570,
     "title": "Jin-Rou",
     "predicted_score": 8.620710047927288,
@@ -1897,39 +378,11 @@
     "num_raters": 4
   },
   {
-    "anime_id": 59898,
-    "title": "City The Animation",
-    "predicted_score": 8.617692593264994,
-    "confidence": 0.16916915112905567,
-    "num_raters": 5
-  },
-  {
     "anime_id": 39651,
     "title": "Mob Psycho 100: Dai Ikkai Rei toka Soudansho Ian Ryokou - Kokoro Mitasu Iyashi no Tabi",
     "predicted_score": 8.617477779448555,
     "confidence": 0.10546450808846537,
     "num_raters": 3
-  },
-  {
-    "anime_id": 33674,
-    "title": "No Game No Life: Zero",
-    "predicted_score": 8.6165965936622,
-    "confidence": 0.14461919874971843,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 10080,
-    "title": "Kami nomi zo Shiru Sekai II",
-    "predicted_score": 8.61626083563821,
-    "confidence": 0.08882857829418904,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 20899,
-    "title": "JoJo no Kimyou na Bouken Part 3: Stardust Crusaders",
-    "predicted_score": 8.61273810585478,
-    "confidence": 0.34486812288243945,
-    "num_raters": 15
   },
   {
     "anime_id": 49784,
@@ -1946,24 +399,10 @@
     "num_raters": 8
   },
   {
-    "anime_id": 16894,
-    "title": "Kuroko no Basket 2nd Season",
-    "predicted_score": 8.61090482205372,
-    "confidence": 0.19400698331829877,
-    "num_raters": 6
-  },
-  {
     "anime_id": 37976,
     "title": "Zombieland Saga",
     "predicted_score": 8.610092595745975,
     "confidence": 0.13620570331611953,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 3783,
-    "title": "Kara no Kyoukai Movie 3: Tsuukaku Zanryuu",
-    "predicted_score": 8.608370575460981,
-    "confidence": 0.15099979222279036,
     "num_raters": 4
   },
   {
@@ -1981,31 +420,10 @@
     "num_raters": 3
   },
   {
-    "anime_id": 49782,
-    "title": "Shadows House 2nd Season",
-    "predicted_score": 8.605002996718365,
-    "confidence": 0.10455861520505576,
-    "num_raters": 3
-  },
-  {
     "anime_id": 41433,
     "title": "Akudama Drive",
     "predicted_score": 8.600160164822814,
     "confidence": 0.10501183960276102,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 2890,
-    "title": "Gake no Ue no Ponyo",
-    "predicted_score": 8.599381938743297,
-    "confidence": 0.1946825645154539,
-    "num_raters": 5
-  },
-  {
-    "anime_id": 4106,
-    "title": "Trigun: Badlands Rumble",
-    "predicted_score": 8.596615154811554,
-    "confidence": 0.10035742285410203,
     "num_raters": 3
   },
   {
@@ -2021,20 +439,6 @@
     "predicted_score": 8.592742495921469,
     "confidence": 0.24091897592004477,
     "num_raters": 7
-  },
-  {
-    "anime_id": 59062,
-    "title": "Gachiakuta",
-    "predicted_score": 8.589923067482266,
-    "confidence": 0.3479925233789305,
-    "num_raters": 10
-  },
-  {
-    "anime_id": 55855,
-    "title": "Kuroshitsuji: Kishuku Gakkou-hen",
-    "predicted_score": 8.586799046949567,
-    "confidence": 0.10675255033081783,
-    "num_raters": 3
   },
   {
     "anime_id": 60593,
@@ -2072,39 +476,11 @@
     "num_raters": 4
   },
   {
-    "anime_id": 38249,
-    "title": "Saiki Kusuo no Ψ-nan: Kanketsu-hen",
-    "predicted_score": 8.575720206568018,
-    "confidence": 0.0984923903362023,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 55866,
-    "title": "Yubisaki to Renren",
-    "predicted_score": 8.574773233797709,
-    "confidence": 0.13858193427902887,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 27821,
-    "title": "Fate/stay night: Unlimited Blade Works Prologue",
-    "predicted_score": 8.573248524663414,
-    "confidence": 0.2014903748120053,
-    "num_raters": 6
-  },
-  {
     "anime_id": 41461,
     "title": "Date A Live IV",
     "predicted_score": 8.56893426326045,
     "confidence": 0.15228021053388044,
     "num_raters": 5
-  },
-  {
-    "anime_id": 42429,
-    "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season",
-    "predicted_score": 8.566732150401867,
-    "confidence": 0.20442462513851248,
-    "num_raters": 6
   },
   {
     "anime_id": 48849,
@@ -2128,20 +504,6 @@
     "num_raters": 3
   },
   {
-    "anime_id": 40852,
-    "title": "Dr. Stone: Stone Wars",
-    "predicted_score": 8.551161882281836,
-    "confidence": 0.3492375706803545,
-    "num_raters": 14
-  },
-  {
-    "anime_id": 27775,
-    "title": "Plastic Memories",
-    "predicted_score": 8.549546439272234,
-    "confidence": 0.16709975068850366,
-    "num_raters": 5
-  },
-  {
     "anime_id": 34443,
     "title": "Baki",
     "predicted_score": 8.545923472857325,
@@ -2163,39 +525,11 @@
     "num_raters": 3
   },
   {
-    "anime_id": 60108,
-    "title": "One Piece: Gyojin Tou-hen",
-    "predicted_score": 8.54228709798969,
-    "confidence": 0.1370999764654489,
-    "num_raters": 4
-  },
-  {
     "anime_id": 4280,
     "title": "Kara no Kyoukai Movie 4: Garan no Dou",
     "predicted_score": 8.541865725224204,
     "confidence": 0.15099979222279036,
     "num_raters": 4
-  },
-  {
-    "anime_id": 5205,
-    "title": "Kara no Kyoukai Movie 7: Satsujin Kousatsu (Go)",
-    "predicted_score": 8.541865725224204,
-    "confidence": 0.15099979222279036,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 53127,
-    "title": "Fate/strange Fake: Whispers of Dawn",
-    "predicted_score": 8.54186207298112,
-    "confidence": 0.2034434348385251,
-    "num_raters": 6
-  },
-  {
-    "anime_id": 34572,
-    "title": "Black Clover",
-    "predicted_score": 8.531698374929027,
-    "confidence": 0.32493486157728335,
-    "num_raters": 9
   },
   {
     "anime_id": 40046,
@@ -2219,32 +553,11 @@
     "num_raters": 3
   },
   {
-    "anime_id": 23317,
-    "title": "Kuroshitsuji: Book of Murder",
-    "predicted_score": 8.52224868902926,
-    "confidence": 0.10675255033081783,
-    "num_raters": 3
-  },
-  {
     "anime_id": 45598,
     "title": "Tonikaku Kawaii: Kaisou",
     "predicted_score": 8.518684912522145,
     "confidence": 0.09397917275482168,
     "num_raters": 3
-  },
-  {
-    "anime_id": 33486,
-    "title": "Boku no Hero Academia 2nd Season",
-    "predicted_score": 8.51815441828752,
-    "confidence": 0.35892876317047256,
-    "num_raters": 24
-  },
-  {
-    "anime_id": 2034,
-    "title": "Lovely★Complex",
-    "predicted_score": 8.51603202439375,
-    "confidence": 0.1656173549325839,
-    "num_raters": 5
   },
   {
     "anime_id": 15583,
@@ -2254,39 +567,11 @@
     "num_raters": 6
   },
   {
-    "anime_id": 38680,
-    "title": "Fruits Basket 1st Season",
-    "predicted_score": 8.514087612822424,
-    "confidence": 0.16425254896984093,
-    "num_raters": 5
-  },
-  {
     "anime_id": 617,
     "title": "Juubee Ninpuuchou",
     "predicted_score": 8.51380040632035,
     "confidence": 0.14081781412685893,
     "num_raters": 4
-  },
-  {
-    "anime_id": 38474,
-    "title": "Yuru Camp△ Season 2",
-    "predicted_score": 8.512207277158872,
-    "confidence": 0.11232333999955987,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 40456,
-    "title": "Kimetsu no Yaiba Movie: Mugen Ressha-hen",
-    "predicted_score": 8.510665668931368,
-    "confidence": 0.36619508145369384,
-    "num_raters": 22
-  },
-  {
-    "anime_id": 36456,
-    "title": "Boku no Hero Academia 3rd Season",
-    "predicted_score": 8.509586132961289,
-    "confidence": 0.35892876317047256,
-    "num_raters": 24
   },
   {
     "anime_id": 40262,
@@ -2310,13 +595,6 @@
     "num_raters": 6
   },
   {
-    "anime_id": 22535,
-    "title": "Kiseijuu: Sei no Kakuritsu",
-    "predicted_score": 8.503209227307131,
-    "confidence": 0.3647555052665323,
-    "num_raters": 11
-  },
-  {
     "anime_id": 59207,
     "title": "Mikadono Sanshimai wa Angai, Choroi.",
     "predicted_score": 8.492879709735636,
@@ -2331,46 +609,11 @@
     "num_raters": 3
   },
   {
-    "anime_id": 49596,
-    "title": "Blue Lock",
-    "predicted_score": 8.480721378394081,
-    "confidence": 0.3522226000354356,
-    "num_raters": 11
-  },
-  {
-    "anime_id": 268,
-    "title": "Golden Boy",
-    "predicted_score": 8.474161364537093,
-    "confidence": 0.09591787274522474,
-    "num_raters": 3
-  },
-  {
     "anime_id": 32542,
     "title": "Sakamoto desu ga?",
     "predicted_score": 8.473510825905977,
     "confidence": 0.12283122008447285,
     "num_raters": 4
-  },
-  {
-    "anime_id": 49114,
-    "title": "Vanitas no Karte Part 2",
-    "predicted_score": 8.4726129669689,
-    "confidence": 0.20458473827544668,
-    "num_raters": 6
-  },
-  {
-    "anime_id": 20507,
-    "title": "Noragami",
-    "predicted_score": 8.472228609851559,
-    "confidence": 0.3400249495473569,
-    "num_raters": 11
-  },
-  {
-    "anime_id": 59459,
-    "title": "Silent Witch: Chinmoku no Majo no Kakushigoto",
-    "predicted_score": 8.4702059860865,
-    "confidence": 0.21044029544967077,
-    "num_raters": 6
   },
   {
     "anime_id": 33988,
@@ -2387,13 +630,6 @@
     "num_raters": 14
   },
   {
-    "anime_id": 28171,
-    "title": "Shokugeki no Souma",
-    "predicted_score": 8.456254728221497,
-    "confidence": 0.33498307297159463,
-    "num_raters": 10
-  },
-  {
     "anime_id": 41389,
     "title": "Tonikaku Kawaii",
     "predicted_score": 8.454307884058732,
@@ -2408,39 +644,11 @@
     "num_raters": 6
   },
   {
-    "anime_id": 32615,
-    "title": "Youjo Senki",
-    "predicted_score": 8.453152383447543,
-    "confidence": 0.34101474875562876,
-    "num_raters": 10
-  },
-  {
-    "anime_id": 34440,
-    "title": "Code Geass: Hangyaku no Lelouch III - Oudou",
-    "predicted_score": 8.452724583222276,
-    "confidence": 0.10021159052547693,
-    "num_raters": 3
-  },
-  {
     "anime_id": 47164,
     "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen",
     "predicted_score": 8.448339399078094,
     "confidence": 0.2436139094570785,
     "num_raters": 7
-  },
-  {
-    "anime_id": 34944,
-    "title": "Bungou Stray Dogs: Dead Apple",
-    "predicted_score": 8.44717412562025,
-    "confidence": 0.1342270246547383,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 33206,
-    "title": "Kobayashi-san Chi no Maid Dragon",
-    "predicted_score": 8.444908235022705,
-    "confidence": 0.35380785099144174,
-    "num_raters": 15
   },
   {
     "anime_id": 23289,
@@ -2450,46 +658,11 @@
     "num_raters": 5
   },
   {
-    "anime_id": 39783,
-    "title": "5-toubun no Hanayome ∬",
-    "predicted_score": 8.433684011167784,
-    "confidence": 0.25741589978421353,
-    "num_raters": 8
-  },
-  {
-    "anime_id": 28805,
-    "title": "Bakemono no Ko",
-    "predicted_score": 8.432948553278122,
-    "confidence": 0.11038175659080683,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 35790,
-    "title": "Tate no Yuusha no Nariagari",
-    "predicted_score": 8.431755454035846,
-    "confidence": 0.3366551756489096,
-    "num_raters": 16
-  },
-  {
     "anime_id": 6747,
     "title": "Dance in the Vampire Bund",
     "predicted_score": 8.430146568718197,
     "confidence": 0.09515546229271553,
     "num_raters": 3
-  },
-  {
-    "anime_id": 38003,
-    "title": "Bungou Stray Dogs 3rd Season",
-    "predicted_score": 8.4273180293658,
-    "confidence": 0.20915872887911935,
-    "num_raters": 6
-  },
-  {
-    "anime_id": 40787,
-    "title": "Josee to Tora to Sakana-tachi",
-    "predicted_score": 8.4236679447047,
-    "confidence": 0.297488564227479,
-    "num_raters": 9
   },
   {
     "anime_id": 38408,
@@ -2499,24 +672,10 @@
     "num_raters": 22
   },
   {
-    "anime_id": 13601,
-    "title": "Psycho-Pass",
-    "predicted_score": 8.421450809430805,
-    "confidence": 0.28756889836061517,
-    "num_raters": 8
-  },
-  {
     "anime_id": 56196,
     "title": "Boku no Hero Academia the Movie 4: You're Next",
     "predicted_score": 8.41802346150849,
     "confidence": 0.10517392899347457,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 5682,
-    "title": "Phantom: Requiem for the Phantom",
-    "predicted_score": 8.415595983223929,
-    "confidence": 0.09504342682802625,
     "num_raters": 3
   },
   {
@@ -2541,20 +700,6 @@
     "num_raters": 6
   },
   {
-    "anime_id": 19815,
-    "title": "No Game No Life",
-    "predicted_score": 8.402995196012354,
-    "confidence": 0.3654824477644135,
-    "num_raters": 11
-  },
-  {
-    "anime_id": 57066,
-    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
-    "predicted_score": 8.400338503060347,
-    "confidence": 0.13762873672745993,
-    "num_raters": 4
-  },
-  {
     "anime_id": 18897,
     "title": "Nisekoi",
     "predicted_score": 8.400330927948703,
@@ -2569,25 +714,11 @@
     "num_raters": 3
   },
   {
-    "anime_id": 25013,
-    "title": "Akatsuki no Yona",
-    "predicted_score": 8.397729250069899,
-    "confidence": 0.09938437870735028,
-    "num_raters": 3
-  },
-  {
     "anime_id": 38594,
     "title": "Kimi to, Nami ni Noretara",
     "predicted_score": 8.393253832954786,
     "confidence": 0.1038823969601116,
     "num_raters": 3
-  },
-  {
-    "anime_id": 11843,
-    "title": "Danshi Koukousei no Nichijou",
-    "predicted_score": 8.38970065394473,
-    "confidence": 0.1713022641088477,
-    "num_raters": 5
   },
   {
     "anime_id": 41619,
@@ -2604,25 +735,11 @@
     "num_raters": 4
   },
   {
-    "anime_id": 41402,
-    "title": "Mairimashita! Iruma-kun 2nd Season",
-    "predicted_score": 8.386497374729753,
-    "confidence": 0.13441883555722955,
-    "num_raters": 4
-  },
-  {
     "anime_id": 37141,
     "title": "Hataraku Saibou",
     "predicted_score": 8.382603754973463,
     "confidence": 0.17244888247193874,
     "num_raters": 5
-  },
-  {
-    "anime_id": 14353,
-    "title": "Death Billiards",
-    "predicted_score": 8.381359965951372,
-    "confidence": 0.10451808330832411,
-    "num_raters": 3
   },
   {
     "anime_id": 54112,
@@ -2632,32 +749,11 @@
     "num_raters": 12
   },
   {
-    "anime_id": 42916,
-    "title": "Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria",
-    "predicted_score": 8.378914882957535,
-    "confidence": 0.14248426289475924,
-    "num_raters": 4
-  },
-  {
     "anime_id": 23321,
     "title": "Log Horizon 2nd Season",
     "predicted_score": 8.374509062050173,
     "confidence": 0.13021764320627582,
     "num_raters": 4
-  },
-  {
-    "anime_id": 11977,
-    "title": "Mahou Shoujo Madoka★Magica Movie 1: Hajimari no Monogatari",
-    "predicted_score": 8.373884999109494,
-    "confidence": 0.10055551231901018,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 61274,
-    "title": "Ginga Tokkyuu Milky☆Subway",
-    "predicted_score": 8.371406690421274,
-    "confidence": 0.1610308884502512,
-    "num_raters": 5
   },
   {
     "anime_id": 50410,
@@ -2672,13 +768,6 @@
     "predicted_score": 8.367792132305079,
     "confidence": 0.13983596547260388,
     "num_raters": 4
-  },
-  {
-    "anime_id": 34822,
-    "title": "Tsuki ga Kirei",
-    "predicted_score": 8.363667841106212,
-    "confidence": 0.1913747209584316,
-    "num_raters": 5
   },
   {
     "anime_id": 6956,
@@ -2702,27 +791,6 @@
     "num_raters": 12
   },
   {
-    "anime_id": 48580,
-    "title": "Vanitas no Karte",
-    "predicted_score": 8.352130065547872,
-    "confidence": 0.20458473827544668,
-    "num_raters": 6
-  },
-  {
-    "anime_id": 34438,
-    "title": "Code Geass: Hangyaku no Lelouch I - Koudou",
-    "predicted_score": 8.348424969451477,
-    "confidence": 0.10553445068816612,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 50330,
-    "title": "Bungou Stray Dogs 4th Season",
-    "predicted_score": 8.345745545850095,
-    "confidence": 0.17219835050525376,
-    "num_raters": 5
-  },
-  {
     "anime_id": 51761,
     "title": "Uma Musume: Pretty Derby - Road to the Top",
     "predicted_score": 8.345063777229168,
@@ -2744,13 +812,6 @@
     "num_raters": 11
   },
   {
-    "anime_id": 36563,
-    "title": "Megalo Box",
-    "predicted_score": 8.340694518048329,
-    "confidence": 0.13664818996037909,
-    "num_raters": 4
-  },
-  {
     "anime_id": 2593,
     "title": "Kara no Kyoukai Movie 1: Fukan Fuukei",
     "predicted_score": 8.33937659186626,
@@ -2765,20 +826,6 @@
     "num_raters": 4
   },
   {
-    "anime_id": 12031,
-    "title": "Kingdom",
-    "predicted_score": 8.331793535545604,
-    "confidence": 0.10036798902137456,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 49052,
-    "title": "Ao Ashi",
-    "predicted_score": 8.325701083815005,
-    "confidence": 0.10987540256749018,
-    "num_raters": 3
-  },
-  {
     "anime_id": 16870,
     "title": "The Last: Naruto the Movie",
     "predicted_score": 8.323134585389287,
@@ -2786,32 +833,11 @@
     "num_raters": 10
   },
   {
-    "anime_id": 33161,
-    "title": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA",
-    "predicted_score": 8.32161130300578,
-    "confidence": 0.17639306691483564,
-    "num_raters": 5
-  },
-  {
     "anime_id": 40841,
     "title": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen OVA",
     "predicted_score": 8.31939493051628,
     "confidence": 0.14464184581559378,
     "num_raters": 4
-  },
-  {
-    "anime_id": 61339,
-    "title": "Jibaku Shounen Hanako-kun 2 Part 2",
-    "predicted_score": 8.319123982859265,
-    "confidence": 0.10020555679159117,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 44087,
-    "title": "Gintama: The Semi-Final",
-    "predicted_score": 8.318695703743327,
-    "confidence": 0.10198202963610527,
-    "num_raters": 3
   },
   {
     "anime_id": 14833,
@@ -2856,20 +882,6 @@
     "num_raters": 5
   },
   {
-    "anime_id": 36946,
-    "title": "Dragon Ball Super: Broly",
-    "predicted_score": 8.301498348709131,
-    "confidence": 0.2504606144149039,
-    "num_raters": 7
-  },
-  {
-    "anime_id": 17265,
-    "title": "Log Horizon",
-    "predicted_score": 8.300542492563109,
-    "confidence": 0.1703008738168138,
-    "num_raters": 5
-  },
-  {
     "anime_id": 52229,
     "title": "Birdie Wing: Golf Girls' Story Season 2",
     "predicted_score": 8.298615147164996,
@@ -2891,20 +903,6 @@
     "num_raters": 16
   },
   {
-    "anime_id": 66,
-    "title": "Azumanga Daiou The Animation",
-    "predicted_score": 8.297096733363722,
-    "confidence": 0.10035742285410203,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 59791,
-    "title": "Ruri no Houseki",
-    "predicted_score": 8.295445131780196,
-    "confidence": 0.15929477374504575,
-    "num_raters": 4
-  },
-  {
     "anime_id": 40357,
     "title": "Tate no Yuusha no Nariagari Season 3",
     "predicted_score": 8.29438042222948,
@@ -2912,39 +910,11 @@
     "num_raters": 5
   },
   {
-    "anime_id": 512,
-    "title": "Majo no Takkyuubin",
-    "predicted_score": 8.29371223956377,
-    "confidence": 0.09956850874314248,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 11979,
-    "title": "Mahou Shoujo Madoka★Magica Movie 2: Eien no Monogatari",
-    "predicted_score": 8.293347393774589,
-    "confidence": 0.1411735479509937,
-    "num_raters": 4
-  },
-  {
-    "anime_id": 7791,
-    "title": "K-On!!",
-    "predicted_score": 8.29285326852165,
-    "confidence": 0.2014859977104699,
-    "num_raters": 6
-  },
-  {
     "anime_id": 3588,
     "title": "Soul Eater",
     "predicted_score": 8.291223876835637,
     "confidence": 0.19777197340452662,
     "num_raters": 6
-  },
-  {
-    "anime_id": 49709,
-    "title": "Fumetsu no Anata e Season 2",
-    "predicted_score": 8.288887877167214,
-    "confidence": 0.25294268287632177,
-    "num_raters": 7
   },
   {
     "anime_id": 43523,
@@ -2989,13 +959,6 @@
     "num_raters": 7
   },
   {
-    "anime_id": 52347,
-    "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su",
-    "predicted_score": 8.275589518754053,
-    "confidence": 0.34256788325443427,
-    "num_raters": 11
-  },
-  {
     "anime_id": 31,
     "title": "Shinseiki Evangelion Movie: Shi to Shinsei",
     "predicted_score": 8.274195449471451,
@@ -3010,24 +973,10 @@
     "num_raters": 6
   },
   {
-    "anime_id": 5680,
-    "title": "K-On!",
-    "predicted_score": 8.268867790513458,
-    "confidence": 0.30627930843130674,
-    "num_raters": 9
-  },
-  {
     "anime_id": 37210,
     "title": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu",
     "predicted_score": 8.268772730037863,
     "confidence": 0.08835171185941097,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 10271,
-    "title": "Gyakkyou Burai Kaiji: Hakairoku-hen",
-    "predicted_score": 8.265613454258279,
-    "confidence": 0.11091656161225237,
     "num_raters": 3
   },
   {
@@ -3052,13 +1001,6 @@
     "num_raters": 3
   },
   {
-    "anime_id": 32867,
-    "title": "Bungou Stray Dogs 2nd Season",
-    "predicted_score": 8.250608319128334,
-    "confidence": 0.20915872887911935,
-    "num_raters": 6
-  },
-  {
     "anime_id": 49889,
     "title": "Tsuki ga Michibiku Isekai Douchuu 2nd Season",
     "predicted_score": 8.248735843705996,
@@ -3071,13 +1013,6 @@
     "predicted_score": 8.24845675602647,
     "confidence": 0.11435863107497307,
     "num_raters": 3
-  },
-  {
-    "anime_id": 24415,
-    "title": "Kuroko no Basket 3rd Season",
-    "predicted_score": 8.247736402768876,
-    "confidence": 0.16492113059121732,
-    "num_raters": 5
   },
   {
     "anime_id": 31765,
@@ -3129,20 +1064,6 @@
     "num_raters": 9
   },
   {
-    "anime_id": 14513,
-    "title": "Magi: The Labyrinth of Magic",
-    "predicted_score": 8.243023089663842,
-    "confidence": 0.20747049487961142,
-    "num_raters": 6
-  },
-  {
-    "anime_id": 18115,
-    "title": "Magi: The Kingdom of Magic",
-    "predicted_score": 8.240992628245616,
-    "confidence": 0.1774010318385057,
-    "num_raters": 5
-  },
-  {
     "anime_id": 1689,
     "title": "Byousoku 5 Centimeter",
     "predicted_score": 8.240291462488843,
@@ -3192,13 +1113,6 @@
     "num_raters": 11
   },
   {
-    "anime_id": 14713,
-    "title": "Kamisama Hajimemashita",
-    "predicted_score": 8.235859988644618,
-    "confidence": 0.09000178933368612,
-    "num_raters": 3
-  },
-  {
     "anime_id": 905,
     "title": "Dragon Ball Z Movie 12: Fukkatsu no Fusion!! Gokuu to Vegeta",
     "predicted_score": 8.235278068365238,
@@ -3234,13 +1148,6 @@
     "num_raters": 6
   },
   {
-    "anime_id": 53924,
-    "title": "Jibaku Shounen Hanako-kun 2",
-    "predicted_score": 8.22622170898069,
-    "confidence": 0.10020555679159117,
-    "num_raters": 3
-  },
-  {
     "anime_id": 40060,
     "title": "BNA",
     "predicted_score": 8.225094475187701,
@@ -3253,13 +1160,6 @@
     "predicted_score": 8.225094475187701,
     "confidence": 0.10455861520505576,
     "num_raters": 3
-  },
-  {
-    "anime_id": 35968,
-    "title": "Wotaku ni Koi wa Muzukashii",
-    "predicted_score": 8.223796597517142,
-    "confidence": 0.3381078648793274,
-    "num_raters": 12
   },
   {
     "anime_id": 8795,
@@ -3325,13 +1225,6 @@
     "num_raters": 3
   },
   {
-    "anime_id": 52865,
-    "title": "Romantic Killer",
-    "predicted_score": 8.194955075320468,
-    "confidence": 0.13123630318296617,
-    "num_raters": 4
-  },
-  {
     "anime_id": 23755,
     "title": "Nanatsu no Taizai",
     "predicted_score": 8.193763207541698,
@@ -3344,13 +1237,6 @@
     "predicted_score": 8.192771845686252,
     "confidence": 0.20846946596860014,
     "num_raters": 6
-  },
-  {
-    "anime_id": 13125,
-    "title": "Shinsekai yori",
-    "predicted_score": 8.190404385676402,
-    "confidence": 0.1304289417377574,
-    "num_raters": 4
   },
   {
     "anime_id": 59369,
@@ -3374,13 +1260,6 @@
     "num_raters": 6
   },
   {
-    "anime_id": 12859,
-    "title": "One Piece Film: Z",
-    "predicted_score": 8.186482535334992,
-    "confidence": 0.14169711891237438,
-    "num_raters": 4
-  },
-  {
     "anime_id": 37517,
     "title": "Happy Sugar Life",
     "predicted_score": 8.183485824315348,
@@ -3395,13 +1274,6 @@
     "num_raters": 3
   },
   {
-    "anime_id": 9617,
-    "title": "K-On! Movie",
-    "predicted_score": 8.177153952032574,
-    "confidence": 0.10869686942058347,
-    "num_raters": 3
-  },
-  {
     "anime_id": 24765,
     "title": "Gakkougurashi!",
     "predicted_score": 8.168578777789119,
@@ -3409,32 +1281,11 @@
     "num_raters": 5
   },
   {
-    "anime_id": 39565,
-    "title": "Boku no Hero Academia the Movie 2: Heroes:Rising",
-    "predicted_score": 8.1628382008996,
-    "confidence": 0.2701642940102709,
-    "num_raters": 8
-  },
-  {
-    "anime_id": 10408,
-    "title": "Hotarubi no Mori e",
-    "predicted_score": 8.162338687661187,
-    "confidence": 0.129217629361384,
-    "num_raters": 4
-  },
-  {
     "anime_id": 28121,
     "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
     "predicted_score": 8.15629667830589,
     "confidence": 0.3657493779650395,
     "num_raters": 14
-  },
-  {
-    "anime_id": 42923,
-    "title": "SK∞",
-    "predicted_score": 8.154184912521757,
-    "confidence": 0.1145192531488766,
-    "num_raters": 3
   },
   {
     "anime_id": 949,
@@ -3570,13 +1421,6 @@
     "num_raters": 5
   },
   {
-    "anime_id": 31658,
-    "title": "Kuroko no Basket Movie 4: Last Game",
-    "predicted_score": 8.114674610942135,
-    "confidence": 0.1348516675501116,
-    "num_raters": 4
-  },
-  {
     "anime_id": 16782,
     "title": "Kotonoha no Niwa",
     "predicted_score": 8.114240357004551,
@@ -3605,25 +1449,11 @@
     "num_raters": 7
   },
   {
-    "anime_id": 36949,
-    "title": "Shokugeki no Souma: San no Sara - Tootsuki Ressha-hen",
-    "predicted_score": 8.096334776086202,
-    "confidence": 0.2746498148953384,
-    "num_raters": 8
-  },
-  {
     "anime_id": 60449,
     "title": "Kidou Senshi Gundam: GQuuuuuuX",
     "predicted_score": 8.095780323042357,
     "confidence": 0.14524659343674004,
     "num_raters": 4
-  },
-  {
-    "anime_id": 55701,
-    "title": "Kimetsu no Yaiba: Hashira Geiko-hen",
-    "predicted_score": 8.090369726621466,
-    "confidence": 0.36075156521754875,
-    "num_raters": 20
   },
   {
     "anime_id": 38793,
@@ -3638,13 +1468,6 @@
     "predicted_score": 8.086492357007465,
     "confidence": 0.3532536937493236,
     "num_raters": 11
-  },
-  {
-    "anime_id": 48585,
-    "title": "Black Clover: Mahou Tei no Ken",
-    "predicted_score": 8.081611601885774,
-    "confidence": 0.10517392899347457,
-    "num_raters": 3
   },
   {
     "anime_id": 39597,
@@ -3679,13 +1502,6 @@
     "title": "Re:Creators",
     "predicted_score": 8.07414992776329,
     "confidence": 0.10364064142304334,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 790,
-    "title": "Ergo Proxy",
-    "predicted_score": 8.066549670397887,
-    "confidence": 0.11038175659080683,
     "num_raters": 3
   },
   {
@@ -3757,13 +1573,6 @@
     "predicted_score": 8.025016260945078,
     "confidence": 0.10986483640021762,
     "num_raters": 3
-  },
-  {
-    "anime_id": 23283,
-    "title": "Zankyou no Terror",
-    "predicted_score": 8.02458742290978,
-    "confidence": 0.20859176401972243,
-    "num_raters": 6
   },
   {
     "anime_id": 37349,
@@ -3920,13 +1729,6 @@
     "num_raters": 4
   },
   {
-    "anime_id": 50593,
-    "title": "Natsu e no Tunnel, Sayonara no Deguchi",
-    "predicted_score": 7.957385607984876,
-    "confidence": 0.17646782874567962,
-    "num_raters": 5
-  },
-  {
     "anime_id": 34134,
     "title": "One Punch Man 2nd Season",
     "predicted_score": 7.949499095583659,
@@ -3946,13 +1748,6 @@
     "predicted_score": 7.948069109388944,
     "confidence": 0.14044065346464002,
     "num_raters": 4
-  },
-  {
-    "anime_id": 50631,
-    "title": "Komi-san wa, Comyushou desu. 2nd Season",
-    "predicted_score": 7.945096459523395,
-    "confidence": 0.20167351044011486,
-    "num_raters": 6
   },
   {
     "anime_id": 31859,
@@ -4046,13 +1841,6 @@
     "num_raters": 4
   },
   {
-    "anime_id": 25681,
-    "title": "Kamisama Hajimemashita◎",
-    "predicted_score": 7.901761486117944,
-    "confidence": 0.09000178933368612,
-    "num_raters": 3
-  },
-  {
     "anime_id": 49877,
     "title": "Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen",
     "predicted_score": 7.891365880651146,
@@ -4086,13 +1874,6 @@
     "predicted_score": 7.870009258483186,
     "confidence": 0.14933737092037147,
     "num_raters": 4
-  },
-  {
-    "anime_id": 35848,
-    "title": "Promare",
-    "predicted_score": 7.868279870863982,
-    "confidence": 0.10071794454879358,
-    "num_raters": 3
   },
   {
     "anime_id": 6922,
@@ -4151,13 +1932,6 @@
     "num_raters": 3
   },
   {
-    "anime_id": 53888,
-    "title": "Spy x Family Movie: Code: White",
-    "predicted_score": 7.8402810263196665,
-    "confidence": 0.3295082039910969,
-    "num_raters": 9
-  },
-  {
     "anime_id": 14227,
     "title": "Tonari no Kaibutsu-kun",
     "predicted_score": 7.838424570781312,
@@ -4193,13 +1967,6 @@
     "num_raters": 3
   },
   {
-    "anime_id": 32366,
-    "title": "Gintama°: Aizome Kaori-hen",
-    "predicted_score": 7.819453341477432,
-    "confidence": 0.09232878376136457,
-    "num_raters": 3
-  },
-  {
     "anime_id": 1029,
     "title": "Omoide Poroporo",
     "predicted_score": 7.817808866777043,
@@ -4214,25 +1981,11 @@
     "num_raters": 4
   },
   {
-    "anime_id": 16001,
-    "title": "Kokoro Connect: Michi Random",
-    "predicted_score": 7.810629461561657,
-    "confidence": 0.18187804917655143,
-    "num_raters": 5
-  },
-  {
     "anime_id": 32268,
     "title": "Koyomimonogatari",
     "predicted_score": 7.809500024421407,
     "confidence": 0.16349700741761192,
     "num_raters": 5
-  },
-  {
-    "anime_id": 35788,
-    "title": "Shokugeki no Souma: San no Sara",
-    "predicted_score": 7.7987395801225015,
-    "confidence": 0.34706604486279613,
-    "num_raters": 10
   },
   {
     "anime_id": 10396,
@@ -4260,13 +2013,6 @@
     "title": "Gleipnir",
     "predicted_score": 7.78865833790711,
     "confidence": 0.10355532601947816,
-    "num_raters": 3
-  },
-  {
-    "anime_id": 31098,
-    "title": "Ushio to Tora (TV) 2nd Season",
-    "predicted_score": 7.786083873872264,
-    "confidence": 0.10507553539564495,
     "num_raters": 3
   },
   {
@@ -4359,13 +2105,6 @@
     "predicted_score": 7.739129866268042,
     "confidence": 0.1306416143276433,
     "num_raters": 4
-  },
-  {
-    "anime_id": 38234,
-    "title": "One Piece Movie 14: Stampede",
-    "predicted_score": 7.737464451790871,
-    "confidence": 0.1848596189920141,
-    "num_raters": 5
   },
   {
     "anime_id": 18671,
@@ -4613,13 +2352,6 @@
     "num_raters": 3
   },
   {
-    "anime_id": 9656,
-    "title": "Kimi ni Todoke 2nd Season",
-    "predicted_score": 7.583112181757861,
-    "confidence": 0.13587219985408003,
-    "num_raters": 4
-  },
-  {
     "anime_id": 40902,
     "title": "Shokugeki no Souma: Gou no Sara",
     "predicted_score": 7.579470273852226,
@@ -4646,13 +2378,6 @@
     "predicted_score": 7.553625870230062,
     "confidence": 0.09392175901629077,
     "num_raters": 3
-  },
-  {
-    "anime_id": 185,
-    "title": "Initial D First Stage",
-    "predicted_score": 7.547484640991613,
-    "confidence": 0.13295129943016767,
-    "num_raters": 4
   },
   {
     "anime_id": 20785,
@@ -5402,13 +3127,6 @@
     "predicted_score": 6.427599453800212,
     "confidence": 0.16729826352470445,
     "num_raters": 4
-  },
-  {
-    "anime_id": 4059,
-    "title": "Clannad: Mou Hitotsu no Sekai, Tomoyo-hen",
-    "predicted_score": 6.415807400678552,
-    "confidence": 0.09863124612968908,
-    "num_raters": 3
   },
   {
     "anime_id": 32901,
